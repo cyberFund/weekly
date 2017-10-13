@@ -1,0 +1,100 @@
+## Ethereum Protocol (Ethereum, Ethereum Classic)
+### In the news and blogs
+
+* [Byzantium hard fork scheduled for October 16 between 12:00 UTC and 13:00 UTC on block 4,370,000](https://blog.ethereum.org/2017/10/12/byzantium-hf-announcement) and [Roundup #6](https://blog.ethereum.org/2017/10/09/roundup-6/) by [Ethereum development team](https://blog.ethereum.org/author/ethereum-team/)
+* [The Byzantium Countdown: What's Left Before Ethereum's Next Fork?](https://www.coindesk.com/byzantium-countdown-whats-left-ethereums-next-fork/) by [Rachel Rose O'Leary](https://www.coindesk.com/author/rachelroseoleary/)
+* [Bitcoin-Ethereum Atomic Swap Code Now Open Source](https://www.coindesk.com/bitcoin-ethereum-atomic-swap-code-now-open-source/) by [Alyssa Hertig](https://www.coindesk.com/author/alyssa-hertig/)
+* [Blockchain, Banks & the New Web: Q&A With Ethereum Co-founder Joe Lubin](http://www.xconomy.com/boston/2017/10/10/blockchain-banks-the-new-web-qa-with-ethereum-co-founder-lubin/?single_page=true#) by [Jeff Engel](http://www.xconomy.com/author/jrengel/)
+
+### Podcast
+* The Ether Review #74 — [An Emerging Capital Market](https://etherreview.info/the-ether-review-74-an-emerging-capital-market-4bda21d6b2da) by [Arthur Falls](https://etherreview.info/@arthurfalls)
+* [Nick Johnson - The Ethereum Name Service - Ethereum London](https://www.youtube.com/watch?v=Cr2Iik6aD9s&feature=youtu.be)
+* [An Ethereum Podcast: Episode #4](http://thebitcoinpodcast.com/an-ethereum-podcast-episode-4/) with Karl Kreder & Alex Miller
+
+
+### Protocol
+* [Ethereum Core Developer Meeting #26](https://www.youtube.com/watch?v=AC2vL7hxu4c). [Agenda](https://github.com/ethereum/pm/issues/24)
+* [Execute EVM inside EVM](https://github.com/ethereum/EIPs/issues/726) by [Vitalik Buterin](https://github.com/vbuterin) 
+* [ERC725: A Self-Sovereign Identity Standard For Ethereum](https://www.ethnews.com/erc725-a-self-sovereign-identity-standard-for-ethereum) by [Matthew De Silva](https://www.ethnews.com/author/matthew-de-silva)
+
+
+### Release
+* [Parity 1.7.4](https://github.com/paritytech/parity/releases)
+
+
+### Stuff for developers
+* [Attacks on Ethereum Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
+* [Introducing Mythril: A framework for bug hunting on the Ethereum blockchain](https://hackernoon.com/introducing-mythril-a-framework-for-bug-hunting-on-the-ethereum-blockchain-9dc5588f82f6) by [Bernhard Mueller](https://hackernoon.com/@muellerberndt)
+* [Installing Raiden on a Raspberry Pi 3](https://blog.hivepower.tech/installing-raiden-on-a-raspberry-pi-3-2c7a583dfcfc) by [Davide Strepparava](https://blog.hivepower.tech/@davide.strepparava)
+* [Truffle v4.0.0 beta](https://github.com/trufflesuite/truffle/releases/tag/v4.0.0-beta.2)
+* [Oyente v0.2.7](https://github.com/melonproject/oyente/releases/tag/0.2.7)
+
+
+### Ecosystem
+* [Implementing Ethereum trading front-runs on the Bancor exchange in Python](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798) by [Ivan Bogatyy](https://hackernoon.com/@ivanbogatyy)
+* [Announcing Cofound.it & Ethfinex Collaboration](https://blog.ethfinex.com/announcing-cofound-it-ethfinex-collaboration-75267cde1804) by [Kasper Rasmussen](https://blog.ethfinex.com/@kasfinex)
+* [Streamr joins the Trusted IoT Alliance](https://blog.trusted-iot.org/streamr-joins-the-trusted-iot-alliance-dea18c30852f) by [Risto Karjalainen](https://blog.trusted-iot.org/@risto.karjalainen)
+* [EscrowMyEther is live](http://escrowmyether.com/)
+* [City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5) by [Simon de la Rouviere](https://medium.com/@simondlr) 
+
+### New projects
+* [Kiosk](http://www.kioskprotocol.com/) - [e-commerce platform, live on Kovan](https://medium.com/kiosk-protocol/introducing-kiosk-a-decentralized-e-commerce-platform-4f3b1cff6669)
+* [Centre](https://www.centre.io/) - Circle’s pivot is a protocol for payment apps to talk to each other
+
+### Project Updates
+* [Radar Relay](https://radarrelay.com) - [Radar Relay on Mainnet](https://medium.com/@RadarRelay/radar-relay-on-mainnet-a780382c418d)
+* [Aragon](https://aragon.one/) - move to [Rocket Chat is complete](https://blog.aragon.one/aragon-chat-is-now-open-d75558df1874)
+* [Bloom](https://hellobloom.io/) - weekly [update](https://blog.hellobloom.io/bloom-weekly-update-10-05-f8aeb1050bf)
+* [ICONOMI](https://www.iconomi.net/) - monthly [report](https://medium.com/iconominet/iconomi-monthly-update-september-2017-99830ff42841)
+* [Keep](https://keep.network) - Keep Network [primer](https://blog.keep.network/the-keep-primer-b825f2ebd132)
+* [Status](https://status.im/) - development [update](https://blog.status.im/status-development-update-for-29th-of-september-3rd-of-october-d33fc07fb0ea)
+* [district0x](https://district0x.io/) - Q3 report [released](https://blog.district0x.io/district0x-quarterly-report-q3-2017-5d69c179b92d)
+* [BAT](https://basicattentiontoken.org) - Mercury preview now [available](https://medium.com/@AttentionToken/mercury-preview-now-available-92ddb99623be)
+
+*Done using materials from http://www.weekinethereum.com and [http://dappdaily.com](http://dappdaily.com/)*
+
+## Bitcoin Ecosystem (Bitcoin, Litecoin, Dash)
+### In the news and blogs
+* [Just SegWit? Bitcoin Core Is Already Working on a New Scaling Upgrade](https://www.coindesk.com/just-segwit-bitcoin-core-already-working-new-scaling-upgrade/) by [Alyssa Hertig](https://www.coindesk.com/author/alyssa-hertig/)
+* [2x or NO2X: Why Some Want to Hard Fork Bitcoin — and Why Others Do Not](https://bitcoinmagazine.com/articles/2x-or-no2x-why-some-want-hard-fork-bitcoin-november-and-why-others-dont/) and [Bitcoin Gold Is About to Trial an ASIC-Resistant Bitcoin Fork](https://bitcoinmagazine.com/articles/bitcoin-gold-about-trial-asic-resistant-bitcoin-fork/) by [Aaron van Wirdum](https://bitcoinmagazine.com/authors/aaron-van-wirdum/)
+* [Beware of Bitcoin's possible incompatibility with some major services](https://bitcoin.org/en/alert/2017-10-09-segwit2x-safety) by [bitcoin.org](https://bitcoin.org/en/)
+* [The 3 Amigos Podcast Episode 20](https://www.dashforcenews.com/dash-force-3-amigos-podcast-episode-20/) by [Mark Mason](https://www.dashforcenews.com/author/markm/)
+* [Android Dash Wallet v5.14.5](https://play.google.com/store/apps/details?id=hashengineering.darkcoin.wallet&hl=en) released
+
+
+## Ripple Protocol (Ripple, Stellar)
+### In the news and blogs
+* [RippleNet Grows to More Than 100 Financial Institutions](https://ripple.com/insights/ripplenet-grows-to-over-100-financial-institutions/?platform=hootsuite) by Kelly Johnson
+
+
+## Cryptonote Protocol (Monero, Bytecoin)
+### In the news and blogs
+* [Aero Aims to Become a Monero-First Darknet Market Rather Than Rely on Bitcoin](https://themerkle.com/aero-aims-to-become-a-monero-first-darknet-market-rather-than-rely-on-bitcoin/) by [JP Buntinx](https://themerkle.com/author/writer10/)
+* The developer of the iOS Monero wallet X-Wallet gave an [update](https://www.reddit.com/r/Monero/comments/74zwcb/update_x_wallet/) on Reddit
+* WHMCS Payment Gateway [released](https://www.reddit.com/r/Monero/comments/752qyp/whmcs_payment_gateway_released/) on Reddit
+* Version 2.1.2 for Reference Client and 1.1.9.3 for Bytecoin [released](https://bytecoin.org/downloads/)
+
+
+*Done using materials from [http://monero-observer.com](http://monero-observer.com)* 
+
+
+## Graphene Ecosystem (Bitshares, Steem, Golos)
+### In the news and blogs
+* [Bitshares GUI Release v2.0.171009](https://steemit.com/bitshares/@billbutler/bitshares-gui-release-v2-0-171009) by [Bill Butler](https://steemit.com/@billbutler)
+* [Stan Larimer talks with Connie Willis 
+](https://www.youtube.com/watch?v=lzu0gSi9Wmk) from [Blue Rock Talk](https://www.youtube.com/channel/UCdILCjuWUFcoIRBVol0t7gg) 
+* This week’s Bitshares hangout recording available [here](https://steemit.com/eos/@officialfuzzy/bitshares-hangout-41-2017-10-07-sat-100pm-utc-opensource-agenda-beyondbit-payouts-powered-by-sp)
+* [Weekly Steem Stats Report](https://steemit.com/steemit/@penguinpablo/weekly-steem-stats-report-monday-october-09-2017) by [penguinpablo](https://steemit.com/@penguinpablo)
+
+*Done using materials from [https://steemit.com/@steempower](https://steemit.com/@steempower)*
+
+## NEM Protocol
+### In the news and blogs
+* Episode 14 of [Inside NEM Blockchain](https://www.youtube.com/channel/UCnsSiqyb0PuQkqT4v8Xjugw): [Top 10 Cryptos vs NEM Blockchain](https://www.youtube.com/watch?v=LHbkfeDx7D4)
+* [NEM news: Malaysia ban? COMSA, Toolchain, medias, ICOs!](https://www.youtube.com/watch?v=-huAPGbucQs&feature=youtu.be)
+
+[![](https://steemitimages.com/DQmbEbcsjyguMBcEVizcgQRrgWYRtGy4YAqPzhHUDzNqmQi/image.png)](http://company.cyber.fund/#newsletter)
+
+
+
+
