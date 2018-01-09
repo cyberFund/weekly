@@ -1,0 +1,92 @@
+# Weekly News 1/2018 by Protocols
+## Ethereum Protocol (Ethereum, Ethereum Classic)
+### In the news and blogs
+
+* [Investor Bulletin: Top 10 of 2017](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_topten2017) by [SEC](https://www.sec.gov/)
+* [Belarus Legalizes Cryptocurrency Transactions And Token Offerings](https://www.ethnews.com/belarus-legalizes-cryptocurrency-transactions-and-token-offerings) by [Jeremy Nation](https://www.ethnews.com/author/jeremy-nation)
+* [The Anatomy of ERC721](https://medium.com/blockchannel/the-anatomy-of-erc721-2576e40bfc5b) by [Steven McKie](https://medium.com/@McKie)
+* [Security in Decentralized Exchanges](https://blog.openrelay.xyz/dex-sec/) by [Austin Roberts](https://github.com/notegio)
+
+### Podcast, Videos and Interviews  
+* [Hacking The Decentralized Revolution: Crisis In Catalonia](https://www.ethnews.com/hacking-the-decentralized-revolution-crisis-in-catalonia) by [Jeremy Nation](https://www.ethnews.com/author/jeremy-nation)
+* [Co-Founder Of Ethereum Platform, Viant, Discuss Worldwide Adoption Of ‘Smart Contracts’](https://scopeweekly.com/2017/12/21/co-founder-ethereum-platform-viant-discuss-worldwide-adoption-smart-contracts/) by [Brandon Hinojos](https://scopeweekly.com/author/brandonh/)
+* [Protocols and Self- Regulation. Q&A Session Recap](https://medium.com/legal-block/protocols-and-self-regulation-q-a-session-recap-f279f5cee3c9) by [Maria T Vidal](https://medium.com/@mariat.vidal)
+
+### Protocol
+* [Ethereum Sharding: Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649) by [Hsiao-Wei Wang](https://medium.com/@icebearhww)
+* Hudson Jameson tweeted that [EWASM Javascript testnet planned for January](https://twitter.com/hudsonjameson/status/945906736187281409) 
+
+### Stuff for developers
+* [Confidential Transactions on Ropsten](https://www.reddit.com/r/ethereum/comments/7mcibp/confidential_transactions_on_ropsten/) on Reddit
+* [GasStation Express: A simple gas price oracle for anyone running a full Ethereum node](https://medium.com/@ethgasstation/gasstation-express-a-simple-gas-price-oracle-for-anyone-running-a-full-ethereum-node-f1bde46260f5) by [ETH Gas Station](https://medium.com/@ethgasstation)
+* [Reversing EVM bytecode with radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) by [Fedor Sakharov](https://blog.positive.com/@theo_montekki)
+* [Video: Purescript-web3 introduction](https://blog.foam.space/video-purescript-web3-introduction-bca47388bf70) by [Arthur Röing Baer](https://blog.foam.space/@arthurroingbaer)
+* [ABI to TypeScript generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29) by [Leonid Logvinov](https://blog.0xproject.com/@Logvinov)
+* [Mathemagic: Full Multiplication](https://medium.com/wicketh/mathemagic-full-multiply-27650fec525d) by [Remco Bloemen](https://medium.com/@recmo)
+* [Integrate with Solium linter](https://github.com/ethereum/emacs-solidity/pull/17) and [Manticore 0.1.6](https://github.com/trailofbits/manticore/releases/tag/0.1.6) on Github
+
+### Ecosystem
+* [Life Cycle of an Ethereum Transaction](https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f6e) by [Mahesh Murthy](https://medium.com/@mvmurthy)
+* [Easy-button to Manage your ENS Names](https://medium.com/@enslisting.com/easy-button-to-manage-your-ens-names-c48aa7b86ca2) by [enslisting](https://medium.com/@enslisting.com)
+* [GITF — Give The Gift Of Hodling](https://medium.com/@enclavesio/gitf-give-the-gift-of-hodling-39cf17f371b3) by [enclaves.io](https://medium.com/@enclavesio)
+* [Toasted Money, Part 2](https://medium.com/@coinop.logan/toasted-money-part-2-b5dfd0b1e946) by [Logan Brutsche](https://medium.com/@coinop.logan)
+
+### Project Updates
+* [Ethfinex](https://www.bitfinex.com/ethfinex) - [Development Update & Beta Roadmap](https://blog.ethfinex.com/ethfinex-development-update-q1-roadmap-c12383ee8c9e) and [Trading is now live on Ethfinex for all existing Bitfinex users. New sign ups will be available from January 15th.](https://twitter.com/ethfinex/status/946044606092754949)
+* [BAT](https://basicattentiontoken.org/) - [Transcript of AMA with Brendan Eich](https://www.reddit.com/r/BATProject/comments/7l4033/transcript_of_ama_with_brendan_eich_ceo_of_brave/)
+* [Aragon](https://aragon.one/) - [News from the Front](https://blog.aragon.one/news-from-the-front-5820cd9f2e46)
+* [Edgeless](https://edgeless.io/) - [License received: Edgeless becomes first legal blockchain casino!](https://medium.com/edgeless/license-received-edgeless-becomes-first-legal-blockchain-casino-7ec171f72c3e)
+* [The Cofound.it 2017 Year in Review](https://blog.cofound.it/the-cofound-it-2017-year-in-review-e6412e1f1ac1)
+* [0x](https://0xproject.com/) - [Front-running, Griefing and the Perils of Virtual Settlement (Part 1)](https://blog.0xproject.com/front-running-griefing-and-the-perils-of-virtual-settlement-part-1-8554ab283e97)
+* [district0x](https://district0x.io/) - [Development Update](https://blog.district0x.io/district0x-dev-update-december-26th-2017-82f6205c383a)
+* [AirSwap Team Update: Dec. 21, 2017](https://blog.airswap.io/airswap-team-update-dec-21-2017-1566c0bc9af6)
+
+*Done using materials from http://www.weekinethereum.com*
+
+## Bitcoin Ecosystem (Bitcoin, Litecoin, Dash)
+### In the news and blogs
+* [Bitcoin and Crypto’s Crazy Year: 2017 Brought Tokens, Forks – and Piles of Money](https://www.bitsonline.com/bitcoin-crypto-crazy-year-2017/) by [Jon Southurst](https://www.bitsonline.com/author/jon-southurst/)
+* [What Lightning Network Means For The Future Of Bitcoin](https://seekingalpha.com/article/4133695-lightning-network-means-future-bitcoin) by [Martin YK Li](https://seekingalpha.com/article/4133695-lightning-network-means-future-bitcoin)
+* [Prepare version scheme for 17.0 release](https://github.com/bitcoin/bitcoin/pull/12026) on Github
+* [The CEO of Dash -- a major cryptocurrency -- says the market is speculative and some of Bitcoin's value may be 'phantom'](https://www.businessinsider.com.au/dash-cryptocurrency-ceo-interview-2017-12) by [Sam Jocobs](https://www.businessinsider.com.au/author/sam-jacobs)
+* [3 Amigos Podcast E31 – Xmas Special with Chuck & Ian from Dash Core!](https://www.dashforcenews.com/3-amigos-podcast-e31-xmas-special-with-chuck-ian-from-dash-core/) by [Mark Mason](https://www.dashforcenews.com/author/markm/)
+
+
+## Ripple Protocol (Ripple, Stellar)
+### In the news and blogs
+* [Ripple Rally Continues, Pushing Currency To Latest All-Time High](https://www.forbes.com/sites/cbovaird/2017/12/27/ripple-rally-continues-pushing-currency-to-latest-all-time-high/#3f2608b6b9d4) by [Charles Bovaird](https://www.forbes.com/sites/cbovaird/#1ab9632172ee)
+* [The Death of the ICO (And 4 Other 2018 Predictions)](https://www.coindesk.com/death-ico-4-2018-predictions/?utm_content=buffer62aaa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by [Stefan Thomas](https://www.coindesk.com/author/stefant/)
+* [Ripple CEO explains why his digital currency can transform banking](https://ripple.com/insights/exploring-innovation-payment-system-infrastructures/) by CNBC
+* [The Creator of Signal Has a Plan to Fix Cryptocurrency](https://www.cnbc.com/video/2017/12/27/ripple-ceo-explains-why-his-digital-currency-can-transform-banking.html) by [Lily Hay Newman](https://www.wired.com/author/lily-hay-newman/)
+* [Tempo, Powered by the Stellar Network, Has Been Selected to Join The Tokyo Government Blockchain Accelerator Program](https://medium.com/@anthony_barker/tempo-powered-by-the-stellar-network-has-been-selected-to-join-the-tokyo-government-blockchain-76d6035af7a6) by [Anthony BARKER](https://medium.com/@anthony_barker)
+
+## Cryptonote Protocol (Monero, Bytecoin)
+### In the news and blogs
+* [5 Exciting Monero Developments to Look Forward to in 2018](https://themerkle.com/5-exciting-monero-developments-to-look-forward-to-in-2018/) by [JP Buntinx](http://www.newsbtc.com/author/jp-buntinx/)
+* [Log of Developers Meeting on Dec 17, 2017](https://monerobase.com/wiki/DevMeeting_2017-12-17). Next meeting: Jan 14, 2018 
+* [Update: Monerujo "Satoshis Dream" (Beta) - now with BTC spending](https://www.reddit.com/r/Monero/comments/7lv9d8/update_monerujo_satoshis_dream_beta_now_with_btc/) on Reddit
+* [What is the difference between Monero (XMR) and Verge (XVG)?](https://monero.stackexchange.com/questions/6813/what-is-the-difference-between-monero-xmr-and-verge-xvg) by [sgp](https://monero.stackexchange.com/users/42/sgp)
+* Monero Monitor Podcast [Episode 16: Mimblewimble with Andrew Poelstra](https://moneromonitor.com/episodes/2017-12-05-Episode-016.html)
+
+*Done using materials from [http://monero-observer.com](http://monero-observer.com)* 
+
+## Graphene Ecosystem (Bitshares, Steem, Golos)
+### In the news and blogs
+
+* [2018 The Year of The DEX](https://medium.com/@George_harrap/2018-the-year-of-the-dex-b48c611bc370) by [George Harrap](https://medium.com/@George_harrap)
+* [Graphene Developers‘ Conference announce in advance](https://steemit.com/cn/@jademont/graphene-developers-conference-announce-in-advance) by [jademont](https://steemit.com/@jademont)
+* [Tradingview UDF server for bitshares](https://github.com/oxarbitrage/udf-bitshares-wrapper) - The first demo of the Bitshares tradingview integration
+* [BitShares - a Collection of Developers Guide, FAQs, Tutorials & more](https://steemit.com/bitshares/@tsugimoto/bitshares-a-colloction-of-developers-tutorial-faqs-and-more) by [tsugimoto](https://steemit.com/@tsugimoto)
+* [Fees Collected on the BitShares blockchain through November 2017](https://steemit.com/bitshares/@taconator/fees-collected-on-the-bitshares-blockchain-through-november-2017) by [taconator](https://steemit.com/@taconator)
+* [Howto: An Introduction to Python-BitShares](https://steemit.com/python/@full-steem-ahead/howto-an-introduction-to-python-bitshares) by [full-steem-ahead](https://steemit.com/@full-steem-ahead)
+* [Weekly Steem Stats Report](https://steemit.com/steemit/@penguinpablo/weekly-steem-stats-report-new-records-last-week) by [penguinpablo](https://steemit.com/@penguinpablo)
+
+*Done using materials from [https://steemit.com/@steempower](https://steemit.com/@steempower)*
+
+## NEM Protocol
+### In the news and blogs
+* [Rene represents LuxTag as well as Access Blockchain Association in Astana, Kazakhstan](https://nemflash.io/rene-represents-luxtag-access-blockchain-association-astana-kazakhstan/) by [Julian](https://nemflash.io/author/brainofmasses/)
+* [Episode 2 of NEM Talks](https://www.youtube.com/watch?v=QqnIKyWeuyY&feature=youtu.be)
+* Episode 25 of [Inside NEM Blockchain](https://www.youtube.com/channel/UCnsSiqyb0PuQkqT4v8Xjugw): [WeChat AddOn Launch, DimCoin Interview + Nano Wallet Update](https://www.youtube.com/watch?v=xp4hZJ2Wvng)
+
+[![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
