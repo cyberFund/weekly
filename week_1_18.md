@@ -2,25 +2,32 @@
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 ### In the news and blogs
 
-* [Investor Bulletin: Top 10 of 2017](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_topten2017) by [SEC](https://www.sec.gov/)
+* [What ICOs should look like in 2018](https://medium.com/tvtwocom/what-icos-should-look-like-in-2018-a96eda686a9b) by [Jan Phillip Hofste](https://medium.com/@jp.hofste?source=post_header_lockup)
 * [Belarus Legalizes Cryptocurrency Transactions And Token Offerings](https://www.ethnews.com/belarus-legalizes-cryptocurrency-transactions-and-token-offerings) by [Jeremy Nation](https://www.ethnews.com/author/jeremy-nation)
 * [The Anatomy of ERC721](https://medium.com/blockchannel/the-anatomy-of-erc721-2576e40bfc5b) by [Steven McKie](https://medium.com/@McKie)
 * [Security in Decentralized Exchanges](https://blog.openrelay.xyz/dex-sec/) by [Austin Roberts](https://github.com/notegio)
 
+### Release
+* [Parity 1.7.12 and Parity 1.8.5 beta](https://github.com/paritytech/parity/releases)
+
 ### Podcast, Videos and Interviews  
-* [Hacking The Decentralized Revolution: Crisis In Catalonia](https://www.ethnews.com/hacking-the-decentralized-revolution-crisis-in-catalonia) by [Jeremy Nation](https://www.ethnews.com/author/jeremy-nation)
-* [Co-Founder Of Ethereum Platform, Viant, Discuss Worldwide Adoption Of ‘Smart Contracts’](https://scopeweekly.com/2017/12/21/co-founder-ethereum-platform-viant-discuss-worldwide-adoption-smart-contracts/) by [Brandon Hinojos](https://scopeweekly.com/author/brandonh/)
-* [Protocols and Self- Regulation. Q&A Session Recap](https://medium.com/legal-block/protocols-and-self-regulation-q-a-session-recap-f279f5cee3c9) by [Maria T Vidal](https://medium.com/@mariat.vidal)
+* [The Future of Tech, with Chris Dixon – [Invest Like the Best, EP.69]](http://investorfieldguide.com/dixon/)
+* [CryptoKitties – Ethereum’s New Killer App with Arthur Camara](http://blockchain.global/cryptokitties/)
+* [CoinDesk's Most Influential in Blockchain 2017 – Joe Lubin](https://www.youtube.com/watch?v=d_LYMtI7hjs)
+* [When New Tech and Dated Policies Collide a Conversation with Vitalik Buterin](https://www.youtube.com/watch?v=KlIFQ7GIdBA)
 
 ### Protocol
-* [Ethereum Sharding: Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649) by [Hsiao-Wei Wang](https://medium.com/@icebearhww)
-* Hudson Jameson tweeted that [EWASM Javascript testnet planned for January](https://twitter.com/hudsonjameson/status/945906736187281409) 
+* [Q4 Roundup](https://blog.ethereum.org/2018/01/02/q4-roundup/) by [Ethereum Team](https://blog.ethereum.org/author/ethereum-team/)
+* [Ethereum scalability research and development subsidy programs](https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/) by [Vitalik Buterin](https://blog.ethereum.org/author/vitalik-buterin/)
+* [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
+* [Casper Research 35](https://www.youtube.com/watch?v=5DkBNpLtTUE)
+* [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426) by Vitalik Buterin
 
 ### Stuff for developers
-* [Confidential Transactions on Ropsten](https://www.reddit.com/r/ethereum/comments/7mcibp/confidential_transactions_on_ropsten/) on Reddit
-* [GasStation Express: A simple gas price oracle for anyone running a full Ethereum node](https://medium.com/@ethgasstation/gasstation-express-a-simple-gas-price-oracle-for-anyone-running-a-full-ethereum-node-f1bde46260f5) by [ETH Gas Station](https://medium.com/@ethgasstation)
-* [Reversing EVM bytecode with radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53) by [Fedor Sakharov](https://blog.positive.com/@theo_montekki)
-* [Video: Purescript-web3 introduction](https://blog.foam.space/video-purescript-web3-introduction-bca47388bf70) by [Arthur Röing Baer](https://blog.foam.space/@arthurroingbaer)
+* [Enterprise Ethereum: Private Transactions with Quorum](https://medium.com/@didil/enterprise-ethereum-private-transactions-with-quorum-b0574bb60700) by [Didil](https://medium.com/@didil)
+* [ERC: Renting Standard for Rival, Non-Fungible Tokens](https://github.com/ethereum/EIPs/issues/809)
+* [Rinkeby (clique consensus) "testnet/private" blockchain explorer](https://www.reddit.com/r/ethereum/comments/7nzgpa/rinkeby_clique_consensus_testnetprivate/)
+* [A zkSNARK tutorial and development environment](https://github.com/howardwu/libsnark-tutorial)
 * [ABI to TypeScript generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29) by [Leonid Logvinov](https://blog.0xproject.com/@Logvinov)
 * [Mathemagic: Full Multiplication](https://medium.com/wicketh/mathemagic-full-multiply-27650fec525d) by [Remco Bloemen](https://medium.com/@recmo)
 * [Integrate with Solium linter](https://github.com/ethereum/emacs-solidity/pull/17) and [Manticore 0.1.6](https://github.com/trailofbits/manticore/releases/tag/0.1.6) on Github
@@ -32,10 +39,13 @@
 * [Toasted Money, Part 2](https://medium.com/@coinop.logan/toasted-money-part-2-b5dfd0b1e946) by [Logan Brutsche](https://medium.com/@coinop.logan)
 
 ### Project Updates
-* [Ethfinex](https://www.bitfinex.com/ethfinex) - [Development Update & Beta Roadmap](https://blog.ethfinex.com/ethfinex-development-update-q1-roadmap-c12383ee8c9e) and [Trading is now live on Ethfinex for all existing Bitfinex users. New sign ups will be available from January 15th.](https://twitter.com/ethfinex/status/946044606092754949)
-* [BAT](https://basicattentiontoken.org/) - [Transcript of AMA with Brendan Eich](https://www.reddit.com/r/BATProject/comments/7l4033/transcript_of_ama_with_brendan_eich_ceo_of_brave/)
-* [Aragon](https://aragon.one/) - [News from the Front](https://blog.aragon.one/news-from-the-front-5820cd9f2e46)
+* [Status](status.im) - [2017: The year you made us. Celebrating a year of community.](https://blog.status.im/2017-the-year-you-made-us-celebrating-a-year-of-community-896e237a74f0)
+* [ICONOMI in 2018](https://medium.com/iconominet/iconomi-in-2018-e9d01ee5159e)
+* [Melon Dev Update — December 2017](https://medium.com/melonport-blog/melon-dev-update-december-2017-ac411b26404d)
+* [Aragon](https://aragon.one/) - [Aragon Team Update: December 2017](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3)
+
 * [Edgeless](https://edgeless.io/) - [License received: Edgeless becomes first legal blockchain casino!](https://medium.com/edgeless/license-received-edgeless-becomes-first-legal-blockchain-casino-7ec171f72c3e)
+
 * [The Cofound.it 2017 Year in Review](https://blog.cofound.it/the-cofound-it-2017-year-in-review-e6412e1f1ac1)
 * [0x](https://0xproject.com/) - [Front-running, Griefing and the Perils of Virtual Settlement (Part 1)](https://blog.0xproject.com/front-running-griefing-and-the-perils-of-virtual-settlement-part-1-8554ab283e97)
 * [district0x](https://district0x.io/) - [Development Update](https://blog.district0x.io/district0x-dev-update-december-26th-2017-82f6205c383a)
