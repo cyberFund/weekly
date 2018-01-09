@@ -3,7 +3,8 @@
 ### In the news and blogs
 
 * [What ICOs should look like in 2018](https://medium.com/tvtwocom/what-icos-should-look-like-in-2018-a96eda686a9b) by [Jan Phillip Hofste](https://medium.com/@jp.hofste?source=post_header_lockup)
-* [Belarus Legalizes Cryptocurrency Transactions And Token Offerings](https://www.ethnews.com/belarus-legalizes-cryptocurrency-transactions-and-token-offerings) by [Jeremy Nation](https://www.ethnews.com/author/jeremy-nation)
+
+* [95 Crypto Theses for 2018](https://medium.com/@twobitidiot/95-crypto-theses-for-2018-ca7b74f8abcf) by [Jeremy Nation](https://www.ethnews.com/author/jeremy-nation)
 * [The Anatomy of ERC721](https://medium.com/blockchannel/the-anatomy-of-erc721-2576e40bfc5b) by [Steven McKie](https://medium.com/@McKie)
 * [Security in Decentralized Exchanges](https://blog.openrelay.xyz/dex-sec/) by [Austin Roberts](https://github.com/notegio)
 
@@ -25,18 +26,12 @@
 
 ### Stuff for developers
 * [Enterprise Ethereum: Private Transactions with Quorum](https://medium.com/@didil/enterprise-ethereum-private-transactions-with-quorum-b0574bb60700) by [Didil](https://medium.com/@didil)
-* [ERC: Renting Standard for Rival, Non-Fungible Tokens](https://github.com/ethereum/EIPs/issues/809)
+* [ERC: Renting Standard for Rival, Non-Fungible Tokens](https://github.com/ethereum/EIPs/issues/809) and [A New Advanced Token Standard](https://github.com/ethereum/EIPs/issues/777) on Github
 * [Rinkeby (clique consensus) "testnet/private" blockchain explorer](https://www.reddit.com/r/ethereum/comments/7nzgpa/rinkeby_clique_consensus_testnetprivate/)
 * [A zkSNARK tutorial and development environment](https://github.com/howardwu/libsnark-tutorial)
-* [ABI to TypeScript generator](https://blog.0xproject.com/abi-to-typescript-generator-b0fb5cae9e29) by [Leonid Logvinov](https://blog.0xproject.com/@Logvinov)
-* [Mathemagic: Full Multiplication](https://medium.com/wicketh/mathemagic-full-multiply-27650fec525d) by [Remco Bloemen](https://medium.com/@recmo)
-* [Integrate with Solium linter](https://github.com/ethereum/emacs-solidity/pull/17) and [Manticore 0.1.6](https://github.com/trailofbits/manticore/releases/tag/0.1.6) on Github
 
 ### Ecosystem
-* [Life Cycle of an Ethereum Transaction](https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f6e) by [Mahesh Murthy](https://medium.com/@mvmurthy)
-* [Easy-button to Manage your ENS Names](https://medium.com/@enslisting.com/easy-button-to-manage-your-ens-names-c48aa7b86ca2) by [enslisting](https://medium.com/@enslisting.com)
-* [GITF — Give The Gift Of Hodling](https://medium.com/@enclavesio/gitf-give-the-gift-of-hodling-39cf17f371b3) by [enclaves.io](https://medium.com/@enclavesio)
-* [Toasted Money, Part 2](https://medium.com/@coinop.logan/toasted-money-part-2-b5dfd0b1e946) by [Logan Brutsche](https://medium.com/@coinop.logan)
+* [Decentralized Exchange Order Tracker](https://etherscan.io/dextracker)
 
 ### Project Updates
 * [Status](status.im) - [2017: The year you made us. Celebrating a year of community.](https://blog.status.im/2017-the-year-you-made-us-celebrating-a-year-of-community-896e237a74f0)
