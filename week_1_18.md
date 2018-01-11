@@ -90,8 +90,9 @@
 
 ## NEO Protocol
 ### In the news and blogs
-* [Rene represents LuxTag as well as Access Blockchain Association in Astana, Kazakhstan](https://nemflash.io/rene-represents-luxtag-access-blockchain-association-astana-kazakhstan/) by [Julian](https://nemflash.io/author/brainofmasses/)
-* [Episode 2 of NEM Talks](https://www.youtube.com/watch?v=QqnIKyWeuyY&feature=youtu.be)
-* Episode 25 of [Inside NEM Blockchain](https://www.youtube.com/channel/UCnsSiqyb0PuQkqT4v8Xjugw): [WeChat AddOn Launch, DimCoin Interview + Nano Wallet Update](https://www.youtube.com/watch?v=xp4hZJ2Wvng)
+* [NEO Council Monthly Report – December](https://neo.org/blog/details/3057) by malcolm@neo.org
+* [NEO Founder Says It's Time for Regulators to Step In](https://www.bloomberg.com/news/videos/2018-01-11/neo-founder-says-it-s-time-for-regulators-to-step-in-video) by Bloomberg
+* [City of Zion release Neon Wallet v0.0.9 featuring QLC support](https://neonewstoday.com/development/neon-wallet-v0-0-9-qlc-support/) by [Global Blockchain G3 Summit event report](https://neonewstoday.com/events/g3-summit-event-report/) by [neonewstoday.com](neonewstoday.com)
+* [NEO Plug-in Wallet Demo — The Art of Security and Convenience](https://medium.com/neweconolab/neo-plug-in-wallet-demo-the-art-of-security-and-convenience-f1763d805d5c) by [robbie wang](https://medium.com/@WangRobbie)
 
 [![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
