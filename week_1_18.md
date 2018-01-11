@@ -88,7 +88,7 @@
 
 *Done using materials from [https://steemit.com/@steempower](https://steemit.com/@steempower)*
 
-## NEM Protocol
+## NEO Protocol
 ### In the news and blogs
 * [Rene represents LuxTag as well as Access Blockchain Association in Astana, Kazakhstan](https://nemflash.io/rene-represents-luxtag-access-blockchain-association-astana-kazakhstan/) by [Julian](https://nemflash.io/author/brainofmasses/)
 * [Episode 2 of NEM Talks](https://www.youtube.com/watch?v=QqnIKyWeuyY&feature=youtu.be)
