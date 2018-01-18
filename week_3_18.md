@@ -68,10 +68,10 @@ T](https://blog.0xproject.com/development-update-4-december-2017-f1873f5685c7)
 
 ## NEO Ecosystem
 ### In the news and blogs
-* [NEO Council Monthly Report – December](https://neo.org/blog/details/3057) by malcolm@neo.org
-* [NEO Founder Says It's Time for Regulators to Step In](https://www.bloomberg.com/news/videos/2018-01-11/neo-founder-says-it-s-time-for-regulators-to-step-in-video) by Bloomberg
-* [City of Zion release Neon Wallet v0.0.9 featuring QLC support](https://neonewstoday.com/development/neon-wallet-v0-0-9-qlc-support/) by [Global Blockchain G3 Summit event report](https://neonewstoday.com/events/g3-summit-event-report/) by [neonewstoday.com](neonewstoday.com)
-* [NEO Plug-in Wallet Demo — The Art of Security and Convenience](https://medium.com/neweconolab/neo-plug-in-wallet-demo-the-art-of-security-and-convenience-f1763d805d5c) by [robbie wang](https://medium.com/@WangRobbie)
+* [O3 relaunches with Android and iOS mobile wallet](https://neonewstoday.com/development/o3-relaunches-with-android-and-ios-mobile-wallet/) by [neonewstoday.com](neonewstoday.com)
+* [O3 Labs Relaunches NEO Mobile Clients](https://steemit.com/neo/@saltyskip/o3-labs-relaunches-neo-mobile-clients) by [saltyskip](https://steemit.com/@saltyskip)
+* [Weekly Report #25–2018.01.12](https://medium.com/proof-of-working/weekly-report-25-2018-01-12-98bc2f1ed41d) by [Fabio C. Canesin](https://medium.com/@canesin)
+* [NEO Amsterdam Livestream (Jan. 13th 2018) - Presented by Distributed.Foundation](https://www.youtube.com/watch?v=bJ6l2cyJhIw) on Youtube
 
 ## Cosmos Ecosystem
 ### In the news and blogs
