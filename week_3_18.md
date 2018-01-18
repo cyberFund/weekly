@@ -55,14 +55,13 @@ T](https://blog.0xproject.com/development-update-4-december-2017-f1873f5685c7)
 
 ## Tezos Ecosystem
 ### In the news and blogs
-* [Arthur Breitman of Tezos - An overview of the team and community development](https://www.youtube.com/watch?v=37asZr4txFI) on Youtube
+* [Tezos dev update 2018-01-12](https://www.youtube.com/watch?v=NdR4YpkK_HQ&feature=youtu.be&a=) on Youtube
 * [Statement Concerning The Tezos Crowd Contribution And The Tezos Foundation](http://fintechnews.ch/blockchain_bitcoin/statement-concerning-tezos-crowd-contribution-tezos-foundation/14375/) by [Company Announcement](http://fintechnews.ch/)
 
 ## Cardano Ecosystem
 ### In the news and blogs
-* [A Cardano development update from Charles Hoskinson, co-founder and CEO of IOHK](https://forum.cardanohub.org/t/10-01-18-a-cardano-development-update-from-charles-hoskinson-co-founder-and-ceo-of-iohk/5730) by cf_jonmoss
-* The next release of the [Cardano roadmap is out](https://cardanoroadmap.com/)
-* [Hoskinson Talks Third Gen Blockchain](https://medium.com/g20-ventures/hoskinson-talks-third-gen-blockchain-1cfa54feea46) by [Mike Troiano](https://medium.com/@miketrap)
+* [Our first official webcast - review and feedback](https://forum.cardanohub.org/t/our-first-official-webcast-review-and-feedback/6325) by cf_jonmoss
+* [What Is ADA Worth? How Cardano Futures Compare To Bitcoin Futures](http://www.ibtimes.com/what-ada-worth-how-cardano-futures-compare-bitcoin-futures-2640025) by [Leigh Cuen](http://www.ibtimes.com/reporters/leigh-cuen)
 * [Quick Update from Charles](https://www.youtube.com/watch?v=AYCfikWgEzg&feature=youtu.be) on Youtube
 
 ## NEO Ecosystem
@@ -72,22 +71,10 @@ T](https://blog.0xproject.com/development-update-4-december-2017-f1873f5685c7)
 * [Weekly Report #25–2018.01.12](https://medium.com/proof-of-working/weekly-report-25-2018-01-12-98bc2f1ed41d) by [Fabio C. Canesin](https://medium.com/@canesin)
 * [NEO Amsterdam Livestream (Jan. 13th 2018) - Presented by Distributed.Foundation](https://www.youtube.com/watch?v=bJ6l2cyJhIw) on Youtube
 
-## Cosmos Ecosystem
-### In the news and blogs
-* [Latest in Cosmos—December Update](https://blog.cosmos.network/latest-in-cosmos-december-update-3bdf99f87c0a) by [Tendermint](https://blog.cosmos.network/@tendermint)
-* [Cosmos: Many Chains, One Ecosystem](https://www.youtube.com/watch?v=LApEkXJR_0M&feature=youtu.be) on Youtube
-
 ## Nebulas Ecosystem
 ### In the news and blogs
-* [Nebulas Weekly Report #11 Jan 8th, 2018](https://medium.com/nebulasio/nebulas-weekly-report-11-jan-8th-2018-5bedebb0c775) by [Nebulas](https://medium.com/@nebulasio)
-* [How to Join Nebulas Testnet](https://github.com/nebulasio/wiki/blob/master/testnet.md) and [Tutorials of Nebulas](https://github.com/nebulasio/wiki/blob/master/tutorials.md) on Github
-
-## Quantum Resistant Ledger (QRL) Ecosystem
-### In the news and blogs
-* [Get ready for QRL launch!](https://medium.com/the-quantum-resistant-ledger/get-ready-for-qrl-launch-b078963d035e) by [Peter Waterland](https://medium.com/@surg0r)
-* [Breaking Bitcoin With a Quantum Computer](http://fortune.com/2018/01/06/breaking-bitcoin-cybersaturday/) by [Jeff John Roberts](http://fortune.com/author/jeff-john-roberts/)
-* [The quantum computing apocalypse is imminent](https://techcrunch.com/2018/01/05/the-quantum-computing-apocalypse-is-imminent/) by [Shlomi Dolev](https://techcrunch.com/contributor/shlomi-dolev/)
-
+* [Nebulas Weekly Report #12 Jan. 15, 2018](https://medium.com/nebulasio/nebulas-weekly-report-12-jan-15-2018-675cf0fcafe5) by [Nebulas](https://medium.com/@nebulasio)
+* Nebulasio is now updated on [CoinMarketCap](https://coinmarketcap.com/currencies/nebulas-token/)
 
 
 [![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
