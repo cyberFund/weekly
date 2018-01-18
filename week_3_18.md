@@ -2,9 +2,11 @@
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 ### In the news and blogs
-* [What ICOs should look like in 2018](https://medium.com/tvtwocom/what-icos-should-look-like-in-2018-a96eda686a9b) by [Jan Phillip Hofste](https://medium.com/@jp.hofste?source=post_header_lockup)
-* [Roadmap for Turbo-Geth](https://medium.com/@akhounov/roadmap-for-turbo-geth-31cbfb1e72b7) by [Alexey Akhunov](https://medium.com/@akhounov)
-* [The case for Ethereum maximalism](https://blog.elidourado.com/the-case-for-ethereum-maximalism-e6ec5dc7f7b2) by [Eli Dourado](https://blog.elidourado.com/@elidourado)
+* https://themerkle.com/vitalik-buterin-releases-revolutionary-new-daico-model-for-icos/ https://ethresear.ch/t/explanation-of-daicos/465
+* [Miners Aren’t Your Friends](https://blog.keep.network/miners-arent-your-friends-cde9b6e0e9ac) by [James Prestwich](https://blog.keep.network/@Prestwich)
+* [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by [TwoBitIdiot](https://medium.com/@twobitidiot)
+* [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) by [Jameson Lopp](https://medium.com/@lopp)
+* [Interactive Coin Offering: a token distribution alternative model or the new face of the IPO’s bookbuilding?](https://medium.com/fintech4italy/interactive-coin-offering-a-token-distribution-alternative-model-or-the-new-face-of-the-ipos-61eee71e75ef) by [Giulia Arangüena](https://medium.com/@giuara)
 
 ### Releases
 * [Parity 1.7.12 and Parity 1.8.5 beta](https://github.com/paritytech/parity/releases)
