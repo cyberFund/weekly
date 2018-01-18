@@ -49,10 +49,9 @@ T](https://blog.0xproject.com/development-update-4-december-2017-f1873f5685c7)
 
 ## QTUM Ecosystem
 ### In the news and blogs
-* [Mainnet Ignition v0.14.13 - Mandatory Update - callcontract bugfix, save/restore contract data](https://github.com/qtumproject/qtum/releases/tag/mainnet-ignition-v0.14.13) on Github
-* [Qtum (QTUM), cryptocurrency and blockchain for the business](https://stocksgazette.com/2018/01/06/qtum-qtum-cryptocurrency-blockchain-business/) by [Kiel Thompson](https://stocksgazette.com/author/kiel-thompson/)
-* [Qtum Partners With Baofeng To Become Bigger Than Bitcoin And Ethereum](https://paymentweek.com/2018-1-5-qtum-partners-baofeng-become-bigger-bitcoin-ethereum/) by [Payment Week](https://paymentweek.com/)
-* [Qtum Foundation, Trusted IoT Alliance, and Chronicled Develop Blockchain IoT Cases](http://www.iotevolutionworld.com/iot/articles/436228-qtum-foundation-trusted-iot-alliance-chronicled-develop-blockcha.htm#.Wk8kC8QtTMs.twitter) by [Ken Briodagh](http://www.iotevolutionworld.com/columnist.aspx?id=100723&nm=Ken%20Briodagh)
+* [Community & Development Updates — January 15th](https://blog.qtum.org/community-development-updates-january-15th-867b5e9c6805) by [Qtum](https://blog.qtum.org/@Qtum)
+* [What Is Qtum?](https://themerkle.com/what-is-qtum//) by [JP Buntinx](https://themerkle.com/author/writer10/)
+* [Blockchain Innovations On Tap, As Qtum Partners With Storm Player, China’s Largest Video Player](http://blocktribune.com/blockchain-innovations-tap-qtum-partners-storm-player-chinas-largest-video-player/) by [Bruce Haring](http://blocktribune.com/author/bruce_haring/)
 
 ## Tezos Ecosystem
 ### In the news and blogs
