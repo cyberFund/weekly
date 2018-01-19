@@ -36,16 +36,18 @@
 
 *Done using materials from http://www.weekinethereum.com*
 
+## NEO Ecosystem
+### In the news and blogs
+* [O3 relaunches with Android and iOS mobile wallet](https://neonewstoday.com/development/o3-relaunches-with-android-and-ios-mobile-wallet/) by [neonewstoday.com](neonewstoday.com)
+* [O3 Labs Relaunches NEO Mobile Clients](https://steemit.com/neo/@saltyskip/o3-labs-relaunches-neo-mobile-clients) by [saltyskip](https://steemit.com/@saltyskip)
+* [Weekly Report #25–2018.01.12](https://medium.com/proof-of-working/weekly-report-25-2018-01-12-98bc2f1ed41d) by [Fabio C. Canesin](https://medium.com/@canesin)
+* [NEO Amsterdam Livestream (Jan. 13th 2018) - Presented by Distributed.Foundation](https://www.youtube.com/watch?v=bJ6l2cyJhIw) on Youtube
+
 ## QTUM Ecosystem
 ### In the news and blogs
 * [Community & Development Updates — January 15th](https://blog.qtum.org/community-development-updates-january-15th-867b5e9c6805) by [Qtum](https://blog.qtum.org/@Qtum)
 * [What Is Qtum?](https://themerkle.com/what-is-qtum//) by [JP Buntinx](https://themerkle.com/author/writer10/)
 * [Blockchain Innovations On Tap, As Qtum Partners With Storm Player, China’s Largest Video Player](http://blocktribune.com/blockchain-innovations-tap-qtum-partners-storm-player-chinas-largest-video-player/) by [Bruce Haring](http://blocktribune.com/author/bruce_haring/)
-
-## Tezos Ecosystem
-### In the news and blogs
-* [Tezos dev update 2018-01-12](https://www.youtube.com/watch?v=NdR4YpkK_HQ&feature=youtu.be&a=) on Youtube
-
 
 ## Cardano Ecosystem
 ### In the news and blogs
@@ -53,12 +55,15 @@
 * [What Is ADA Worth? How Cardano Futures Compare To Bitcoin Futures](http://www.ibtimes.com/what-ada-worth-how-cardano-futures-compare-bitcoin-futures-2640025) by [Leigh Cuen](http://www.ibtimes.com/reporters/leigh-cuen)
 * [Quick Update from Charles](https://www.youtube.com/watch?v=AYCfikWgEzg&feature=youtu.be) on Youtube
 
-## NEO Ecosystem
+## Tezos Ecosystem
 ### In the news and blogs
-* [O3 relaunches with Android and iOS mobile wallet](https://neonewstoday.com/development/o3-relaunches-with-android-and-ios-mobile-wallet/) by [neonewstoday.com](neonewstoday.com)
-* [O3 Labs Relaunches NEO Mobile Clients](https://steemit.com/neo/@saltyskip/o3-labs-relaunches-neo-mobile-clients) by [saltyskip](https://steemit.com/@saltyskip)
-* [Weekly Report #25–2018.01.12](https://medium.com/proof-of-working/weekly-report-25-2018-01-12-98bc2f1ed41d) by [Fabio C. Canesin](https://medium.com/@canesin)
-* [NEO Amsterdam Livestream (Jan. 13th 2018) - Presented by Distributed.Foundation](https://www.youtube.com/watch?v=bJ6l2cyJhIw) on Youtube
+* [Tezos dev update 2018-01-12](https://www.youtube.com/watch?v=NdR4YpkK_HQ&feature=youtu.be&a=) on Youtube
+
+## Rchain Ecosystem
+### In the news and blogs
+* [The latest updates and open bug bountiesthe on RChain Developer Wiki](https://rchain.atlassian.net/wiki/spaces/CORE/overview)
+* Episode 60 of [Rchain Community Hangout](https://www.youtube.com/watch?v=LzLkc6ihLmQ)
+
 
 ## Nebulas Ecosystem
 ### In the news and blogs
