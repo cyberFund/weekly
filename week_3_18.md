@@ -9,13 +9,6 @@
 * [Interactive Coin Offering: a token distribution alternative model or the new face of the IPO’s bookbuilding?](https://medium.com/fintech4italy/interactive-coin-offering-a-token-distribution-alternative-model-or-the-new-face-of-the-ipos-61eee71e75ef) by [Giulia Arangüena](https://medium.com/@giuara)
 * [The Non-Fungibles Revolution of 2018](https://blog.decentraland.org/the-non-fungibles-revolution-of-2018-304270525b05?891) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
 
-### Podcast, Videos and Interviews  
-* [Vitalik Buterin, Creator Of Ethereum, On The Big Guy Vs. The Little Guy](http://unchainedpodcast.co/vitalik-buterin-creator-of-ethereum-on-the-big-guy-vs-the-little-guy) by Unchained Podcast
-* [The Future of Tech, with Chris Dixon – [Invest Like the Best, EP.69]](http://investorfieldguide.com/dixon/)
-* [CryptoKitties – Ethereum’s New Killer App with Arthur Camara](http://blockchain.global/cryptokitties/)
-* [CoinDesk's Most Influential in Blockchain 2017 – Joe Lubin](https://www.youtube.com/watch?v=d_LYMtI7hjs)
-* [When New Tech and Dated Policies Collide a Conversation with Vitalik Buterin](https://www.youtube.com/watch?v=KlIFQ7GIdBA)
-
 ### Protocol
 * [Ethereum Core Developer Meeting #31](https://www.youtube.com/watch?v=biNCOCQdjQ0). [Agenda](https://github.com/ethereum/pm/issues/29)
 * [Construction of a Plasma Chain 0x1](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612) by [David Knott](https://blog.omisego.network/@davidlknott)
@@ -31,6 +24,10 @@
 ### Ecosystem
 * [Decentralized Exchange Order Tracker](https://etherscan.io/dextracker)
 * [Everything you need to know about ERC777, the new proposed token standard but were afraid to ask](https://www.reddit.com/r/ethereum/comments/7qjw6x/everything_you_need_to_know_about_erc777_the_new/)
+
+### Podcast, Videos and Interviews  
+* [An Ethereum Podcast: Episode #11 with Luis Cuende and Maria Gomez from Aragon](https://thebitcoinpodcast.com/an-ethereum-podcast-episode-11/)
+* [We’re going to make our way out of a structured economy and monetary system, says Ethereum co-founder](https://factordaily.com/ethereum-joseph-lubin-interview-india/) by [Anand Murali](https://factordaily.com/author/anand/)
 
 ### Project Updates
 * [BAT](https://basicattentiontoken.org/) - [Update: Brave Browser and BAT Achievements in 2017 and Goals for 2018](https://brave.com/update-brave-browser-and-bat-achievements-in-2017-and-goals-for-2018/) and [BRAVE ANNOUNCES $1 MILLION CRYPTO-TOKEN GIVEAWAY](https://basicattentiontoken.org/brave-announces-1-million-crypto-token-giveaway/)
