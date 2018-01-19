@@ -19,8 +19,9 @@
 * [When New Tech and Dated Policies Collide a Conversation with Vitalik Buterin](https://www.youtube.com/watch?v=KlIFQ7GIdBA)
 
 ### Protocol
-* [Q4 Roundup](https://blog.ethereum.org/2018/01/02/q4-roundup/) by [Ethereum Team](https://blog.ethereum.org/author/ethereum-team/)
-* [Ethereum scalability research and development subsidy programs](https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/) by [Vitalik Buterin](https://blog.ethereum.org/author/vitalik-buterin/)
+* [Ethereum Core Developer Meeting #31](https://www.youtube.com/watch?v=biNCOCQdjQ0). [Agenda](https://github.com/ethereum/pm/issues/29)
+* [Construction of a Plasma Chain 0x1](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612) by [David Knott](https://blog.omisego.network/@davidlknott)
+* [Template for implementing Plasma child chains with Truebit](https://github.com/mrsmkl/truebit-plasma) by [Vitalik Buterin](https://blog.ethereum.org/author/vitalik-buterin/)
 * [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
 * [Casper Research 35](https://www.youtube.com/watch?v=5DkBNpLtTUE)
 * [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426) by Vitalik Buterin
