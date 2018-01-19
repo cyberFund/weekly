@@ -22,16 +22,14 @@
 * [Ethereum Core Developer Meeting #31](https://www.youtube.com/watch?v=biNCOCQdjQ0). [Agenda](https://github.com/ethereum/pm/issues/29)
 * [Construction of a Plasma Chain 0x1](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612) by [David Knott](https://blog.omisego.network/@davidlknott)
 * [Template for implementing Plasma child chains with Truebit](https://github.com/mrsmkl/truebit-plasma) by [Vitalik Buterin](https://blog.ethereum.org/author/vitalik-buterin/)
-* [Alpha Casper FFG Testnet Instructions](http://notes.eth.sg/MYEwhswJwMzAtADgCwEYBM9kAYBGJ4wBTETKdGZdXAVmRvUQDYg=?view)
-* [Casper Research 35](https://www.youtube.com/watch?v=5DkBNpLtTUE)
-* [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426) by Vitalik Buterin
-* [Privacy on Ethereum is too expensive](https://medium.com/@clearmatics/privacy-on-ethereum-is-too-expensive-fb8b9e1815b2) by [Clearmatics](https://medium.com/@clearmatics)
+* Episode 36 of [Casper Research](https://www.youtube.com/watch?v=f8yZfUIk89g)
+* [State-minimised executions](https://ethresear.ch/t/state-minimised-executions/748) by [justin](https://ethresear.ch/u/justin/summary)
+* [ZkSTARK paper](https://eprint.iacr.org/2018/046.pdf) published
 
 ### Stuff for developers
-* [Enterprise Ethereum: Private Transactions with Quorum](https://medium.com/@didil/enterprise-ethereum-private-transactions-with-quorum-b0574bb60700) by [Didil](https://medium.com/@didil)
-* [ERC: Renting Standard for Rival, Non-Fungible Tokens](https://github.com/ethereum/EIPs/issues/809) and [A New Advanced Token Standard](https://github.com/ethereum/EIPs/issues/777) on Github
-* [Rinkeby (clique consensus) "testnet/private" blockchain explorer](https://www.reddit.com/r/ethereum/comments/7nzgpa/rinkeby_clique_consensus_testnetprivate/)
-* [A zkSNARK tutorial and development environment](https://github.com/howardwu/libsnark-tutorial)
+* [Ethereum Alarm Clock Beta Release 0.9.0](https://blog.chronologic.network/ethereum-alarm-clock-beta-release-0-9-0-ce7bc27dbb6f) by [ChronoLogic](https://blog.chronologic.network/@chronologicnetwork)
+* Ganache [v1.2.0-beta.0 - Candy Apple](https://github.com/trufflesuite/ganache/releases/tag/v1.1.0-beta.0) and [The command-line Ethereum army knife by DappHub](https://github.com/dapphub/seth) on Github
+* [The Non-Fungibles Revolution of 2018](https://blog.decentraland.org/the-non-fungibles-revolution-of-2018-304270525b05?891) by []
 
 ### Ecosystem
 * [Decentralized Exchange Order Tracker](https://etherscan.io/dextracker)
