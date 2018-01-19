@@ -12,7 +12,7 @@
 ### Protocol
 * [Ethereum Core Developer Meeting #31](https://www.youtube.com/watch?v=biNCOCQdjQ0). [Agenda](https://github.com/ethereum/pm/issues/29)
 * [Construction of a Plasma Chain 0x1](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612) by [David Knott](https://blog.omisego.network/@davidlknott)
-* [Template for implementing Plasma child chains with Truebit](https://github.com/mrsmkl/truebit-plasma) by [Vitalik Buterin](https://blog.ethereum.org/author/vitalik-buterin/)
+* [Template for implementing Plasma child chains with Truebit](https://github.com/mrsmkl/truebit-plasma)
 * Episode 36 of [Casper Research](https://www.youtube.com/watch?v=f8yZfUIk89g)
 * [State-minimised executions](https://ethresear.ch/t/state-minimised-executions/748) by [justin](https://ethresear.ch/u/justin/summary)
 * [ZkSTARK paper](https://eprint.iacr.org/2018/046.pdf) published
