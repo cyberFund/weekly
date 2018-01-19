@@ -20,9 +20,6 @@
 ### Stuff for developers
 * [Ethereum Alarm Clock Beta Release 0.9.0](https://blog.chronologic.network/ethereum-alarm-clock-beta-release-0-9-0-ce7bc27dbb6f) by [ChronoLogic](https://blog.chronologic.network/@chronologicnetwork)
 * Ganache [v1.2.0-beta.0 - Candy Apple](https://github.com/trufflesuite/ganache/releases/tag/v1.1.0-beta.0) and [The command-line Ethereum army knife by DappHub](https://github.com/dapphub/seth) on Github
-
-### Ecosystem
-* [Decentralized Exchange Order Tracker](https://etherscan.io/dextracker)
 * [Everything you need to know about ERC777, the new proposed token standard but were afraid to ask](https://www.reddit.com/r/ethereum/comments/7qjw6x/everything_you_need_to_know_about_erc777_the_new/)
 
 ### Podcast, Videos and Interviews  
