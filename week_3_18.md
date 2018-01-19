@@ -29,7 +29,7 @@
 ### Project Updates
 * [BAT](https://basicattentiontoken.org/) - [Update: Brave Browser and BAT Achievements in 2017 and Goals for 2018](https://brave.com/update-brave-browser-and-bat-achievements-in-2017-and-goals-for-2018/) and [BRAVE ANNOUNCES $1 MILLION CRYPTO-TOKEN GIVEAWAY](https://basicattentiontoken.org/brave-announces-1-million-crypto-token-giveaway/)
 * [Digix Dev Update — 16 Jan 2018 — Audit Updates, Dekrypt Capital, SGInnovate, Meetups](https://medium.com/@Digix/digix-dev-update-16-jan-2018-audit-updates-dekrypt-capital-sginnovate-meetups-cc28ed7c332c)
-* [Aragon](https://aragon.one/) - [Aragon Q4 Development Update](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) and [Aragon Q4 Transparency Report](https://blog.aragon.one/aragon-q4-transparency-report-df3195ba6fd3)
+* [Aragon Q4 Development Update](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) and [Aragon Q4 Transparency Report](https://blog.aragon.one/aragon-q4-transparency-report-df3195ba6fd3)
 * [Mercury in 2018](https://medium.com/mercuryprotocol/mercury-in-2018-89fad6d44013)
 * [VariabL Development Update (Q4'2017) — From Alpha to Production](https://blog.variabl.io/variabl-development-update-q42017-from-alpha-to-production-f13b523a477b)
 * [uPort Year in Review + What’s to Come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
@@ -45,7 +45,7 @@
 ## Tezos Ecosystem
 ### In the news and blogs
 * [Tezos dev update 2018-01-12](https://www.youtube.com/watch?v=NdR4YpkK_HQ&feature=youtu.be&a=) on Youtube
-* [Statement Concerning The Tezos Crowd Contribution And The Tezos Foundation](http://fintechnews.ch/blockchain_bitcoin/statement-concerning-tezos-crowd-contribution-tezos-foundation/14375/) by [Company Announcement](http://fintechnews.ch/)
+
 
 ## Cardano Ecosystem
 ### In the news and blogs
