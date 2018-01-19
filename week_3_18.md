@@ -2,14 +2,12 @@
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 ### In the news and blogs
-* https://themerkle.com/vitalik-buterin-releases-revolutionary-new-daico-model-for-icos/ https://ethresear.ch/t/explanation-of-daicos/465
+* [Vitalik Buterin Releases Revolutionary New DAICO Model for ICOs](https://themerkle.com/vitalik-buterin-releases-revolutionary-new-daico-model-for-icos/) by [Samuel Town](https://themerkle.com/author/samueltown/) 
 * [Miners Aren’t Your Friends](https://blog.keep.network/miners-arent-your-friends-cde9b6e0e9ac) by [James Prestwich](https://blog.keep.network/@Prestwich)
 * [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by [TwoBitIdiot](https://medium.com/@twobitidiot)
 * [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) by [Jameson Lopp](https://medium.com/@lopp)
 * [Interactive Coin Offering: a token distribution alternative model or the new face of the IPO’s bookbuilding?](https://medium.com/fintech4italy/interactive-coin-offering-a-token-distribution-alternative-model-or-the-new-face-of-the-ipos-61eee71e75ef) by [Giulia Arangüena](https://medium.com/@giuara)
-
-### Releases
-* [Parity 1.7.12 and Parity 1.8.5 beta](https://github.com/paritytech/parity/releases)
+* [The Non-Fungibles Revolution of 2018](https://blog.decentraland.org/the-non-fungibles-revolution-of-2018-304270525b05?891) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
 
 ### Podcast, Videos and Interviews  
 * [Vitalik Buterin, Creator Of Ethereum, On The Big Guy Vs. The Little Guy](http://unchainedpodcast.co/vitalik-buterin-creator-of-ethereum-on-the-big-guy-vs-the-little-guy) by Unchained Podcast
@@ -29,20 +27,18 @@
 ### Stuff for developers
 * [Ethereum Alarm Clock Beta Release 0.9.0](https://blog.chronologic.network/ethereum-alarm-clock-beta-release-0-9-0-ce7bc27dbb6f) by [ChronoLogic](https://blog.chronologic.network/@chronologicnetwork)
 * Ganache [v1.2.0-beta.0 - Candy Apple](https://github.com/trufflesuite/ganache/releases/tag/v1.1.0-beta.0) and [The command-line Ethereum army knife by DappHub](https://github.com/dapphub/seth) on Github
-* [The Non-Fungibles Revolution of 2018](https://blog.decentraland.org/the-non-fungibles-revolution-of-2018-304270525b05?891) by []
 
 ### Ecosystem
 * [Decentralized Exchange Order Tracker](https://etherscan.io/dextracker)
-* [6 Questions to Ask When Considering Blockchain Solutions for Enterprise](https://media.consensys.net/6-questions-to-ask-when-considering-blockchain-solutions-for-enterprise-10616a0c63c4) by [ConsenSys](https://media.consensys.net/@ConsenSys)
+* [Everything you need to know about ERC777, the new proposed token standard but were afraid to ask](https://www.reddit.com/r/ethereum/comments/7qjw6x/everything_you_need_to_know_about_erc777_the_new/)
 
 ### Project Updates
-* [Status](status.im) - [2017: The year you made us. Celebrating a year of community.](https://blog.status.im/2017-the-year-you-made-us-celebrating-a-year-of-community-896e237a74f0)
-* [ICONOMI in 2018](https://medium.com/iconominet/iconomi-in-2018-e9d01ee5159e)
-* [Melon Dev Update — December 2017](https://medium.com/melonport-blog/melon-dev-update-december-2017-ac411b26404d)
-* [Aragon](https://aragon.one/) - [Aragon Team Update: December 2017](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3)
-* [0x](https://0xproject.com/) - [Development Update #4 — December 2017
-T](https://blog.0xproject.com/development-update-4-december-2017-f1873f5685c7)
-* [KyberNetwork](https://kyber.network/) - [KyberNetwork‘s Ropsten Testnet Release and Tutorial](https://blog.kyber.network/kybernetwork-s-ropsten-testnet-release-and-tutorial-3129928660d7)
+* [BAT](https://basicattentiontoken.org/) - [Update: Brave Browser and BAT Achievements in 2017 and Goals for 2018](https://brave.com/update-brave-browser-and-bat-achievements-in-2017-and-goals-for-2018/) and [BRAVE ANNOUNCES $1 MILLION CRYPTO-TOKEN GIVEAWAY](https://basicattentiontoken.org/brave-announces-1-million-crypto-token-giveaway/)
+* [Digix Dev Update — 16 Jan 2018 — Audit Updates, Dekrypt Capital, SGInnovate, Meetups](https://medium.com/@Digix/digix-dev-update-16-jan-2018-audit-updates-dekrypt-capital-sginnovate-meetups-cc28ed7c332c)
+* [Aragon](https://aragon.one/) - [Aragon Q4 Development Update](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) and [Aragon Q4 Transparency Report](https://blog.aragon.one/aragon-q4-transparency-report-df3195ba6fd3)
+* [Mercury in 2018](https://medium.com/mercuryprotocol/mercury-in-2018-89fad6d44013)
+* [VariabL Development Update (Q4'2017) — From Alpha to Production](https://blog.variabl.io/variabl-development-update-q42017-from-alpha-to-production-f13b523a477b)
+* [uPort Year in Review + What’s to Come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
 
 *Done using materials from http://www.weekinethereum.com*
 
