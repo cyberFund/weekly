@@ -43,9 +43,9 @@
 
 ## QTUM Ecosystem
 ### In the news and blogs
-* [Community & Development Updates — January 15th](https://blog.qtum.org/community-development-updates-january-15th-867b5e9c6805) by [Qtum](https://blog.qtum.org/@Qtum)
-* [What Is Qtum?](https://themerkle.com/what-is-qtum//) by [JP Buntinx](https://themerkle.com/author/writer10/)
-* [Blockchain Innovations On Tap, As Qtum Partners With Storm Player, China’s Largest Video Player](http://blocktribune.com/blockchain-innovations-tap-qtum-partners-storm-player-chinas-largest-video-player/) by [Bruce Haring](http://blocktribune.com/author/bruce_haring/)
+* [Qtum’s Patrick Dai on China Global Television Network](https://blog.qtum.org/qtums-patrick-dai-on-china-global-television-network-239a9f4baad5) by [Qtum](https://blog.qtum.org/@Qtum)
+* [How Solidity Events Are Implemented — Diving Into The Ethereum VM Part 6](https://blog.qtum.org/how-solidity-events-are-implemented-diving-into-the-ethereum-vm-part-6-30e07b3037b9) by [Howard](https://blog.qtum.org/@hayeah)
+* [Qtum Forges Ahead with Development of Its x86 Virtual Machine and Expanded Network](https://bitcoinmagazine.com/articles/qtum-forges-ahead-development-its-x86-virtual-machine-and-expanded-network/) by [Shawn Gordon](https://bitcoinmagazine.com/authors/shawn-gordon/)
 
 ## Cardano Ecosystem
 ### In the news and blogs
