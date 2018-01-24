@@ -49,9 +49,9 @@
 
 ## Cardano Ecosystem
 ### In the news and blogs
-* [Our first official webcast - review and feedback](https://forum.cardanohub.org/t/our-first-official-webcast-review-and-feedback/6325) by cf_jonmoss
-* [What Is ADA Worth? How Cardano Futures Compare To Bitcoin Futures](http://www.ibtimes.com/what-ada-worth-how-cardano-futures-compare-bitcoin-futures-2640025) by [Leigh Cuen](http://www.ibtimes.com/reporters/leigh-cuen)
-* [Quick Update from Charles](https://www.youtube.com/watch?v=AYCfikWgEzg&feature=youtu.be) on Youtube
+* [19.1.2018 - Cardano Foundation Chairman, Michael Parsons appeared on BBC World News today](https://forum.cardanohub.org/t/19-1-2018-cardano-foundation-chairman-michael-parsons-appeared-on-bbc-world-news-today/6532) and [19.01.2018 - The first CF webcast a success and IOHK’s 2018 summit in Lisbon](https://forum.cardanohub.org/t/19-01-2018-the-first-cf-webcast-a-success-and-iohk-s-2018-summit-in-lisbon/6524) by cf_jonmoss
+* [Cardano: A New Disruptor in the Cryptocurrency Market?](https://themarketmogul.com/cardano-disruptor-cryptocurrency-market/) by [Thomas Smith](https://themarketmogul.com/author/thomassmith/)
+* [History of Cardano 2015-2018 (Git Visualization)](https://www.youtube.com/watch?v=YtSfJqP04cQ) on Youtube
 
 ## Tezos Ecosystem
 ### In the news and blogs
