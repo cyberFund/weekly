@@ -38,10 +38,8 @@
 
 ## NEO Ecosystem
 ### In the news and blogs
-* [O3 relaunches with Android and iOS mobile wallet](https://neonewstoday.com/development/o3-relaunches-with-android-and-ios-mobile-wallet/) by [neonewstoday.com](neonewstoday.com)
-* [O3 Labs Relaunches NEO Mobile Clients](https://steemit.com/neo/@saltyskip/o3-labs-relaunches-neo-mobile-clients) by [saltyskip](https://steemit.com/@saltyskip)
-* [Weekly Report #25–2018.01.12](https://medium.com/proof-of-working/weekly-report-25-2018-01-12-98bc2f1ed41d) by [Fabio C. Canesin](https://medium.com/@canesin)
-* [NEO Amsterdam Livestream (Jan. 13th 2018) - Presented by Distributed.Foundation](https://www.youtube.com/watch?v=bJ6l2cyJhIw) on Youtube
+* [A Detailed Explanation to NEO Smart Contracts Debugging](https://medium.com/neweconolab/a-detailed-explanation-to-neo-smart-contracts-debugging-9a2267fd1843) by [robbie wang](https://medium.com/@WangRobbie)
+* [Weekly Report #26–2018.01.19](https://medium.com/proof-of-working/weekly-report-26-2018-01-19-b766ee379f52) by [Tyler](https://medium.com/@lllwvlvwlll)
 
 ## QTUM Ecosystem
 ### In the news and blogs
