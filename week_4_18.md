@@ -1,4 +1,4 @@
-# Weekly News 4/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, Rchain, Nebulas)
+﻿# Weekly News 4/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, Rchain, Nebulas)
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 ### In the news and blogs
@@ -70,3 +70,7 @@
 
 
 [![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
+
+
+
+test
