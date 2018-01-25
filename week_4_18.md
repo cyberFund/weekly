@@ -70,7 +70,3 @@
 
 
 [![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
-
-
-
-test
