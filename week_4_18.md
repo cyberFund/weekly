@@ -2,7 +2,7 @@
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 ### In the news and blogs
-* [Vitalik Buterin Releases Revolutionary New DAICO Model for ICOs](https://themerkle.com/vitalik-buterin-releases-revolutionary-new-daico-model-for-icos/) by [Samuel Town](https://themerkle.com/author/samueltown/) 
+* [Vitalik Buterin Releases Revolutionary New DAICO Model for ICOs](https://themerkle.com/vitalik-buterin-releases-revolutionary-new-daico-model-for-icos/) by [Samuel Town](https://themerkle.com/author/samueltown/)
 * [Miners Aren’t Your Friends](https://blog.keep.network/miners-arent-your-friends-cde9b6e0e9ac) by [James Prestwich](https://blog.keep.network/@Prestwich)
 * [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by [TwoBitIdiot](https://medium.com/@twobitidiot)
 * [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) by [Jameson Lopp](https://medium.com/@lopp)
@@ -27,13 +27,11 @@
 * [We’re going to make our way out of a structured economy and monetary system, says Ethereum co-founder](https://factordaily.com/ethereum-joseph-lubin-interview-india/) by [Anand Murali](https://factordaily.com/author/anand/)
 
 ### Project Updates
-* [BAT](https://basicattentiontoken.org/) - [Update: Brave Browser and BAT Achievements in 2017 and Goals for 2018](https://brave.com/update-brave-browser-and-bat-achievements-in-2017-and-goals-for-2018/) and [BRAVE ANNOUNCES $1 MILLION CRYPTO-TOKEN GIVEAWAY](https://basicattentiontoken.org/brave-announces-1-million-crypto-token-giveaway/)
-* [Digix Dev Update — 16 Jan 2018 — Audit Updates, Dekrypt Capital, SGInnovate, Meetups](https://medium.com/@Digix/digix-dev-update-16-jan-2018-audit-updates-dekrypt-capital-sginnovate-meetups-cc28ed7c332c)
-* [Aragon Q4 Development Update](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) and [Aragon Q4 Transparency Report](https://blog.aragon.one/aragon-q4-transparency-report-df3195ba6fd3)
-* [Mercury in 2018](https://medium.com/mercuryprotocol/mercury-in-2018-89fad6d44013)
-* [VariabL Development Update (Q4'2017) — From Alpha to Production](https://blog.variabl.io/variabl-development-update-q42017-from-alpha-to-production-f13b523a477b)
-* [uPort Year in Review + What’s to Come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
-
+* [Melonport](https://melonport.com) - [Melon IPFS Front-end v0.6.0](https://medium.com/melonport-blog/melon-ipfs-front-end-v0-6-0-b87fff1a2c91)
+* [Aragon](https://aragon.one/) - [Launch of Aragon Nest](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595)
+* [Funfair](https://funfair.io) - [Kick off 2018](https://funfair.io/january-update/)
+* [Gnosis](https://gnosis.pm/) - [WIZ turns OWL](https://blog.gnosis.pm/wiz-turns-owl-813555100010)
+* [district0x](https://district0x.io/) - [Development Update](https://blog.district0x.io/district0x-dev-update-january-23rd-2018-51c25b91e3b)
 *Done using materials from http://www.weekinethereum.com*
 
 ## NEO Ecosystem
