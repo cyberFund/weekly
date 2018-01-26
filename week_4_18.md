@@ -2,29 +2,42 @@
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 ### In the news and blogs
-* [Vitalik Buterin Releases Revolutionary New DAICO Model for ICOs](https://themerkle.com/vitalik-buterin-releases-revolutionary-new-daico-model-for-icos/) by [Samuel Town](https://themerkle.com/author/samueltown/)
-* [Miners Aren’t Your Friends](https://blog.keep.network/miners-arent-your-friends-cde9b6e0e9ac) by [James Prestwich](https://blog.keep.network/@Prestwich)
-* [Skin-in-the-Game Coins](https://medium.com/tbis-weekly-bits/skin-in-the-game-coins-da0afdfdc650) by [TwoBitIdiot](https://medium.com/@twobitidiot)
-* [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b) by [Jameson Lopp](https://medium.com/@lopp)
-* [Interactive Coin Offering: a token distribution alternative model or the new face of the IPO’s bookbuilding?](https://medium.com/fintech4italy/interactive-coin-offering-a-token-distribution-alternative-model-or-the-new-face-of-the-ipos-61eee71e75ef) by [Giulia Arangüena](https://medium.com/@giuara)
-* [The Non-Fungibles Revolution of 2018](https://blog.decentraland.org/the-non-fungibles-revolution-of-2018-304270525b05?891) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
+* [A personal look at the early days of Internet vs blockchain today](https://medium.com/@pelleb/personal-look-at-the-early-days-of-internet-vs-blockchain-today-590a98cb009f) by [Pelle Braendgaard](https://medium.com/@pelleb)
+* [Opening Remarks at the Securities Regulation Institute](https://www.sec.gov/news/speech/speech-clayton-012218) by Chairman Jay Clayton
+* [Exploring blockchain for better business](https://www.nrc-cnrc.gc.ca/eng/stories/2018/blockchains.html) by [National Research Council Canada](https://www.nrc-cnrc.gc.ca)
+* [Bitcoin Wallet Maker Ledger Raises $75 Million for Security Push](https://www.bloomberg.com/news/articles/2018-01-18/bitcoin-wallet-maker-ledger-raises-75-million-for-security-push) by [Marie Mawad](https://twitter.com/Marie_a_Paris)
+* [NASA Awards Grant For Ethereum Blockchain-Related Research](http://westerndawn.infos.st//index/nasa-awards-grant-ethereum-blockchain-related-research/) by [Westerndawn](http://westerndawn.infos.st)
 
 ### Protocol
-* [Ethereum Core Developer Meeting #31](https://www.youtube.com/watch?v=biNCOCQdjQ0). [Agenda](https://github.com/ethereum/pm/issues/29)
-* [Construction of a Plasma Chain 0x1](https://blog.omisego.network/construction-of-a-plasma-chain-0x1-614f6ebd1612) by [David Knott](https://blog.omisego.network/@davidlknott)
-* [Template for implementing Plasma child chains with Truebit](https://github.com/mrsmkl/truebit-plasma)
+* [Notes from Ethereum Core Devs Meeting #31 [1/12/18]](https://www.reddit.com/r/ethereum/comments/7s3bcx/notes_from_ethereum_core_devs_meeting_31_11218/)
+* Casper [v0.2 Networks and More Consensus](https://github.com/ethereum/cbc-casper/releases/tag/0.2.0) on Github
+* [Turbo-Geth status](https://medium.com/@akhounov/turbo-geth-status-534c10709206)
 * Episode 36 of [Casper Research](https://www.youtube.com/watch?v=f8yZfUIk89g)
-* [State-minimised executions](https://ethresear.ch/t/state-minimised-executions/748) by [justin](https://ethresear.ch/u/justin/summary)
-* [ZkSTARK paper](https://eprint.iacr.org/2018/046.pdf) published
+* [Detailed analysis of stateless client witness size, and gains from batching and multi-state roots](https://ethresear.ch/t/detailed-analysis-of-stateless-client-witness-size-and-gains-from-batching-and-multi-state-roots/862) and [Simple Casper light client](https://ethresear.ch/t/simple-casper-light-client/828) by [vbuterin](https://ethresear.ch/u/vbuterin/summary)
+* [Smart Contracts for Bribing Miners](http://homepages.cs.ncl.ac.uk/patrick.mccorry/minerbribery.pdf) by Patrick McCorry, Alexander Hicks, and Sarah Meiklejohn
 
 ### Stuff for developers
-* [Ethereum Alarm Clock Beta Release 0.9.0](https://blog.chronologic.network/ethereum-alarm-clock-beta-release-0-9-0-ce7bc27dbb6f) by [ChronoLogic](https://blog.chronologic.network/@chronologicnetwork)
-* Ganache [v1.2.0-beta.0 - Candy Apple](https://github.com/trufflesuite/ganache/releases/tag/v1.1.0-beta.0) and [The command-line Ethereum army knife by DappHub](https://github.com/dapphub/seth) on Github
-* [Everything you need to know about ERC777, the new proposed token standard but were afraid to ask](https://www.reddit.com/r/ethereum/comments/7qjw6x/everything_you_need_to_know_about_erc777_the_new/)
+* [Tackling Ethereum scalability issues](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) by [Vojtěch Šimetka](https://medium.com/@vojtechsimetka)
+* [Microraiden Bug Bounty Update](https://medium.com/@raiden_network/microraiden-bug-bounty-update-695fddd6433) by [
+Raiden Network](https://medium.com/@raiden_network)
+* [Mythril - Smart Contract Security Analysis Web API](https://www.topcoder.com/challenges/30061900)
+* [Smart Contract Upgradeability using Eternal Storage](https://blog.zeppelinos.org/smart-contract-upgradeability-using-eternal-storage/) by Facundo Spagnuolo
+* [Javascript client for interacting with the Ethereum Alarm Clock](https://github.com/ethereum-alarm-clock/eac.js) and [Utility Solidity library composed of basic operations for tightly packed bytes arrays](https://github.com/GNSPS/solidity-bytes-utils) on Github
+
+### Ecosystem
+* [Smart Contract Cover: A Safety Net for Ethereum Smart Contracts](https://medium.com/nexus-mutual/smart-contract-cover-55782407722c) by [Hugh Karp](https://medium.com/@hugh_karp)
+* [Introduction to Proof of Location](https://blog.foam.space/introduction-to-proof-of-location-6b4c77928022) by [Ryan John King](https://blog.foam.space/@foamspace)
+* [EthDNS: an Ethereum backend for the Domain Name System](https://medium.com/@jgm.orinoco/ethdns-an-ethereum-backend-for-the-domain-name-system-d52dabd904b3) by [Jim McDonald](https://medium.com/@jgm.orinoco)
+* [Using an In-Browser Ethereum Wallet? Here’s Some Things You Should Know](https://blog.hellobloom.io/using-an-in-browser-ethereum-wallet-heres-some-things-you-should-know-e01304b977e3) by [John Backus](https://blog.hellobloom.io/@jbackus)
+* [On decentralization of blockchain oracles (Part 1)](https://medium.com/@oraclize/on-decentralization-of-blockchain-oracles-94fb78598e79) by [Oraclize](https://medium.com/@oraclize)
+* [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87) by [Pelle Braendgaard](https://medium.com/@pelleb)
 
 ### Podcast, Videos and Interviews  
 * [An Ethereum Podcast: Episode #11 with Luis Cuende and Maria Gomez from Aragon](https://thebitcoinpodcast.com/an-ethereum-podcast-episode-11/)
 * [We’re going to make our way out of a structured economy and monetary system, says Ethereum co-founder](https://factordaily.com/ethereum-joseph-lubin-interview-india/) by [Anand Murali](https://factordaily.com/author/anand/)
+
+### New projects
+* [LegalFling](https://legalfling.io/) - mobile app which records sexual consent in a legally binding agreement
 
 ### Project Updates
 * [Melonport](https://melonport.com) - [Melon IPFS Front-end v0.6.0](https://medium.com/melonport-blog/melon-ipfs-front-end-v0-6-0-b87fff1a2c91)
@@ -32,6 +45,11 @@
 * [Funfair](https://funfair.io) - [Kick off 2018](https://funfair.io/january-update/)
 * [Gnosis](https://gnosis.pm/) - [WIZ turns OWL](https://blog.gnosis.pm/wiz-turns-owl-813555100010)
 * [district0x](https://district0x.io/) - [Development Update](https://blog.district0x.io/district0x-dev-update-january-23rd-2018-51c25b91e3b)
+* [OmiseGo](https://omisego.network/) - [OMG Network Validation](https://blog.omisego.network/omg-network-validation-f935523086db)
+* [Request Network project update (January 19th, 2018)-Announcing a $30 Million Request Fund](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43)
+* [Grid+ Progress Report - 01/23/2018](https://blog.gridplus.io/grid-progress-report-01-23-2018-a25c93803cd0)
+* [Colony Q1 2018 Update](https://blog.colony.io/colony-q1-2018-update-f570b37071ac)
+
 *Done using materials from http://www.weekinethereum.com*
 
 ## NEO Ecosystem
