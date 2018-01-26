@@ -70,7 +70,7 @@ Raiden Network](https://medium.com/@raiden_network)
 
 ## Tezos Ecosystem
 ### In the news and blogs
-* [@OCamlPro 's live demo of a multisig contract entirely written in the #Liquidity smart-contract language & live deploy on @tez0s 's alphanet](https://www.reddit.com/r/tezos/) on Twitter
+* [OCamlPro 's live demo of a multisig contract entirely written in the Liquidity smart-contract language & live deploy on @tez0s 's alphanet](https://twitter.com/OCamlPro/status/956574674477047808) on Twitter
 * The Tezos GitLab is showing [plenty of developer activity](https://gitlab.com/tezos/tezos/activity), but the Foundation continues to be at war with the project's founders by [Brian Patrick Eha](https://twitter.com/brianeha)
 * [Tezos: Crypto-Anarchists Appeal to Swiss Government](https://www.finews.com/news/english-news/30398-tezos-crypto-cryptocurrencies-alain-bersier-johann-gevers-breitman) by [www.finews.com](https://www.finews.com)
 
