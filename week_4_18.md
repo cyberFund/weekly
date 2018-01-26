@@ -11,8 +11,7 @@
 ### Protocol
 * [Notes from Ethereum Core Devs Meeting #31 [1/12/18]](https://www.reddit.com/r/ethereum/comments/7s3bcx/notes_from_ethereum_core_devs_meeting_31_11218/)
 * Casper [v0.2 Networks and More Consensus](https://github.com/ethereum/cbc-casper/releases/tag/0.2.0) on Github
-* [Turbo-Geth status](https://medium.com/@akhounov/turbo-geth-status-534c10709206)
-* Episode 36 of [Casper Research](https://www.youtube.com/watch?v=f8yZfUIk89g)
+* [Turbo-Geth status](https://medium.com/@akhounov/turbo-geth-status-534c10709206) by [Alexey Akhunov](https://medium.com/@akhounov)
 * [Detailed analysis of stateless client witness size, and gains from batching and multi-state roots](https://ethresear.ch/t/detailed-analysis-of-stateless-client-witness-size-and-gains-from-batching-and-multi-state-roots/862) and [Simple Casper light client](https://ethresear.ch/t/simple-casper-light-client/828) by [vbuterin](https://ethresear.ch/u/vbuterin/summary)
 * [Smart Contracts for Bribing Miners](http://homepages.cs.ncl.ac.uk/patrick.mccorry/minerbribery.pdf) by Patrick McCorry, Alexander Hicks, and Sarah Meiklejohn
 
@@ -31,10 +30,6 @@ Raiden Network](https://medium.com/@raiden_network)
 * [Using an In-Browser Ethereum Wallet? Here’s Some Things You Should Know](https://blog.hellobloom.io/using-an-in-browser-ethereum-wallet-heres-some-things-you-should-know-e01304b977e3) by [John Backus](https://blog.hellobloom.io/@jbackus)
 * [On decentralization of blockchain oracles (Part 1)](https://medium.com/@oraclize/on-decentralization-of-blockchain-oracles-94fb78598e79) by [Oraclize](https://medium.com/@oraclize)
 * [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87) by [Pelle Braendgaard](https://medium.com/@pelleb)
-
-### Podcast, Videos and Interviews  
-* [An Ethereum Podcast: Episode #11 with Luis Cuende and Maria Gomez from Aragon](https://thebitcoinpodcast.com/an-ethereum-podcast-episode-11/)
-* [We’re going to make our way out of a structured economy and monetary system, says Ethereum co-founder](https://factordaily.com/ethereum-joseph-lubin-interview-india/) by [Anand Murali](https://factordaily.com/author/anand/)
 
 ### New projects
 * [LegalFling](https://legalfling.io/) - mobile app which records sexual consent in a legally binding agreement
@@ -62,27 +57,32 @@ Raiden Network](https://medium.com/@raiden_network)
 * [Qtum’s Patrick Dai on China Global Television Network](https://blog.qtum.org/qtums-patrick-dai-on-china-global-television-network-239a9f4baad5) by [Qtum](https://blog.qtum.org/@Qtum)
 * [How Solidity Events Are Implemented — Diving Into The Ethereum VM Part 6](https://blog.qtum.org/how-solidity-events-are-implemented-diving-into-the-ethereum-vm-part-6-30e07b3037b9) by [Howard](https://blog.qtum.org/@hayeah)
 * [Qtum Forges Ahead with Development of Its x86 Virtual Machine and Expanded Network](https://bitcoinmagazine.com/articles/qtum-forges-ahead-development-its-x86-virtual-machine-and-expanded-network/) by [Shawn Gordon](https://bitcoinmagazine.com/authors/shawn-gordon/)
+* [Qtum’s New Partnership to Launch China’s First Blockchain Hub](http://www.nasdaq.com/article/qtums-new-partnership-to-launch-chinas-first-blockchain-hub-cm909962) by [nasdaq.com](http://www.nasdaq.com)
+* [Blockchain is taking us to the moon (and beyond) AMA w/ Jeff Garzik Jan 24 2018 6:30 PM PST (+8 GMT)](https://www.reddit.com/r/Qtum/comments/7s0gru/blockchain_is_taking_us_to_the_moon_and_beyond/) on Reddit
+* [Why 2018 Will Be The Year Of Ethereum And QTUM](http://storeofvalueblog.com/posts/why-2018-will-be-the-year-of-ethereum/) by [storeofvalueblog.com](http://storeofvalueblog.com)
 
 ## Cardano Ecosystem
 ### In the news and blogs
-* [19.1.2018 - Cardano Foundation Chairman, Michael Parsons appeared on BBC World News today](https://forum.cardanohub.org/t/19-1-2018-cardano-foundation-chairman-michael-parsons-appeared-on-bbc-world-news-today/6532) and [19.01.2018 - The first CF webcast a success and IOHK’s 2018 summit in Lisbon](https://forum.cardanohub.org/t/19-01-2018-the-first-cf-webcast-a-success-and-iohk-s-2018-summit-in-lisbon/6524) by cf_jonmoss
+* [19.1.2018 - Cardano Foundation Chairman, Michael Parsons appeared on BBC World News today](https://forum.cardanohub.org/t/19-1-2018-cardano-foundation-chairman-michael-parsons-appeared-on-bbc-world-news-today/6532) and [24.1.18 - Cardano Foundation enlist FP Complete for independent 3rd Party Audit of Cardano Blockchain](https://forum.cardanohub.org/t/24-1-18-cardano-foundation-enlist-fp-complete-for-independent-3rd-party-audit-of-cardano-blockchain/6948) by cf_jonmoss
+* [Cardano (ADA coin) Founder Interview: Charles Hoskinson](https://www.youtube.com/watch?v=pcNDSSmkgkA&utm_content=buffer769c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) on Youtube
 * [Cardano: A New Disruptor in the Cryptocurrency Market?](https://themarketmogul.com/cardano-disruptor-cryptocurrency-market/) by [Thomas Smith](https://themarketmogul.com/author/thomassmith/)
 * [History of Cardano 2015-2018 (Git Visualization)](https://www.youtube.com/watch?v=YtSfJqP04cQ) on Youtube
 
 ## Tezos Ecosystem
 ### In the news and blogs
-* [Tezos dev update 2018-01-12](https://www.youtube.com/watch?v=NdR4YpkK_HQ&feature=youtu.be&a=) on Youtube
+* [@OCamlPro 's live demo of a multisig contract entirely written in the #Liquidity smart-contract language & live deploy on @tez0s 's alphanet](https://www.reddit.com/r/tezos/) on Twitter
+* The Tezos GitLab is showing [plenty of developer activity](https://gitlab.com/tezos/tezos/activity), but the Foundation continues to be at war with the project's founders by [Brian Patrick Eha](https://twitter.com/brianeha)
+* [Tezos: Crypto-Anarchists Appeal to Swiss Government](https://www.finews.com/news/english-news/30398-tezos-crypto-cryptocurrencies-alain-bersier-johann-gevers-breitman) by [www.finews.com](https://www.finews.com)
 
 ## Rchain Ecosystem
 ### In the news and blogs
-* [The latest updates and open bug bountiesthe on RChain Developer Wiki](https://rchain.atlassian.net/wiki/spaces/CORE/overview)
-* Episode 60 of [Rchain Community Hangout](https://www.youtube.com/watch?v=LzLkc6ihLmQ)
+* Episode 61 of [Rchain Community Hangout](https://www.youtube.com/watch?v=vO-vunmEG-4)
+* [Rchain Exclusive chat Lawrence Lerner & Nash Foster: Making the Blockchain Industry Ready!](https://www.youtube.com/watch?v=PwuV7ryhaXw&t=1s) on Youtube
 
 
 ## Nebulas Ecosystem
 ### In the news and blogs
-* [Nebulas Weekly Report #12 Jan. 15, 2018](https://medium.com/nebulasio/nebulas-weekly-report-12-jan-15-2018-675cf0fcafe5) by [Nebulas](https://medium.com/@nebulasio)
-* Nebulasio is now updated on [CoinMarketCap](https://coinmarketcap.com/currencies/nebulas-token/)
-
+* [Nebulas Weekly Report #13 Jan. 22th, 2018](https://medium.com/nebulasio/nebulas-weekly-report-13-jan-22th-2018-55d6a18a6cdf) and [Nebulas Sponsors the Research Project of Zcash Co-Founder](https://medium.com/nebulasio/nebulas-sponsors-the-research-project-of-zcash-co-founder-37b57a872ba6) by [Nebulas](https://medium.com/@nebulasio)
+* [Nebulas AMA Series #1 Testnet](https://www.youtube.com/watch?v=oWW4IkK7Mt0&t=30s) on Youtube
 
 [![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
