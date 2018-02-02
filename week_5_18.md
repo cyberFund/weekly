@@ -56,7 +56,6 @@
 
 ## Tezos Ecosystem
 ### In the news and blogs
-* [Tezos: Johann Gevers Blinks](https://www.finews.com/news/english-news/30460-tezos-swiss-foundation-johann-gevers-arthur-kathleen-breitman-guido-schmitz-krummenacher) on Twitter
 * [Special Announcement - T2 Foundation with Olaf, Ryan and Jonas](https://www.youtube.com/watch?v=EsyF9kMH4KE&feature=youtu.be) by [Tezos Community](https://www.youtube.com/channel/UCtEd2bkrhpH9ygGYx03MHtQ)
 * [Bitcoin Brawl: A New Twist In Tezos’s $232 Million Coin Offering](https://www.wsj.com/articles/a-hot-coin-offerings-investors-go-shopping-for-a-new-board-a-hot-coin-offerings-investors-go-shopping-for-a-new-board-1517490000) by [Paul Vigna](http://twitter.com/paulvigna)
 * [Tezos Has a New Board, But What Does It Mean for the Money?](https://www.coindesk.com/tezos-new-board-mean-money/) by [Brady Dale](https://www.coindesk.com/author/bdale/)
