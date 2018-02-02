@@ -1,88 +1,82 @@
-﻿# Weekly News 4/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, Rchain, Nebulas)
+﻿# Weekly News 5/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, Rchain, Quantum Resistant Ledger, Nebulas)
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
-### In the news and blogs
-* [A personal look at the early days of Internet vs blockchain today](https://medium.com/@pelleb/personal-look-at-the-early-days-of-internet-vs-blockchain-today-590a98cb009f) by [Pelle Braendgaard](https://medium.com/@pelleb)
-* [Opening Remarks at the Securities Regulation Institute](https://www.sec.gov/news/speech/speech-clayton-012218) by Chairman Jay Clayton
-* [Exploring blockchain for better business](https://www.nrc-cnrc.gc.ca/eng/stories/2018/blockchains.html) by [National Research Council Canada](https://www.nrc-cnrc.gc.ca)
-* [Bitcoin Wallet Maker Ledger Raises $75 Million for Security Push](https://www.bloomberg.com/news/articles/2018-01-18/bitcoin-wallet-maker-ledger-raises-75-million-for-security-push) by [Marie Mawad](https://twitter.com/Marie_a_Paris)
-* [NASA Awards Grant For Ethereum Blockchain-Related Research](http://westerndawn.infos.st//index/nasa-awards-grant-ethereum-blockchain-related-research/) by [Westerndawn](http://westerndawn.infos.st)
-
 ### Protocol
-* [Notes from Ethereum Core Devs Meeting #31 [1/12/18]](https://www.reddit.com/r/ethereum/comments/7s3bcx/notes_from_ethereum_core_devs_meeting_31_11218/)
-* Casper [v0.2 Networks and More Consensus](https://github.com/ethereum/cbc-casper/releases/tag/0.2.0) on Github
-* [Turbo-Geth status](https://medium.com/@akhounov/turbo-geth-status-534c10709206) by [Alexey Akhunov](https://medium.com/@akhounov)
-* [Detailed analysis of stateless client witness size, and gains from batching and multi-state roots](https://ethresear.ch/t/detailed-analysis-of-stateless-client-witness-size-and-gains-from-batching-and-multi-state-roots/862) and [Simple Casper light client](https://ethresear.ch/t/simple-casper-light-client/828) by [vbuterin](https://ethresear.ch/u/vbuterin/summary)
-* [Smart Contracts for Bribing Miners](http://homepages.cs.ncl.ac.uk/patrick.mccorry/minerbribery.pdf) by Patrick McCorry, Alexander Hicks, and Sarah Meiklejohn
+* [Ethereum Core Developer Meeting #32](https://www.youtube.com/watch?v=ZtPy9r0jthI). [Agenda](https://github.com/ethereum/pm/issues/30)
+* [Plasma Implementers Call #1](https://www.youtube.com/watch?v=_DPftmg7zR8) on Youtube
+* [Programming Incentives: An Intro to Cryptoeconomics - BPASE '18](https://www.youtube.com/watch?v=7Tnxw3NpN_I) by [Cyber Initiative](https://www.youtube.com/channel/UClTL-ZUsrWuNMP4zy-PWByw)
+* [Initial explorations on full PoS proposal mechanisms](https://ethresear.ch/t/initial-explorations-on-full-pos-proposal-mechanisms/925) by [vbuterin](https://ethresear.ch/u/vbuterin/summary)
+* [ScalingNOW! #1: Björn & Max from Parity Talk to Giveth about Bridging EVM Chains NOW!](https://www.youtube.com/watch?v=aWvzQMorof0) by [Giveth](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
+* [Velocity: The fastest Parity released](http://paritytech.io/velocity-the-fastest-parity-released/) by [Parity](http://paritytech.io/)
 
 ### Stuff for developers
-* [Tackling Ethereum scalability issues](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) by [Vojtěch Šimetka](https://medium.com/@vojtechsimetka)
-* [Microraiden Bug Bounty Update](https://medium.com/@raiden_network/microraiden-bug-bounty-update-695fddd6433) by [
-Raiden Network](https://medium.com/@raiden_network)
-* [Mythril - Smart Contract Security Analysis Web API](https://www.topcoder.com/challenges/30061900)
-* [Smart Contract Upgradeability using Eternal Storage](https://blog.zeppelinos.org/smart-contract-upgradeability-using-eternal-storage/) by Facundo Spagnuolo
-* [Javascript client for interacting with the Ethereum Alarm Clock](https://github.com/ethereum-alarm-clock/eac.js) and [Utility Solidity library composed of basic operations for tightly packed bytes arrays](https://github.com/GNSPS/solidity-bytes-utils) on Github
+* [How Formal Verification Can Ensure Flawless Smart Contracts](https://media.consensys.net/how-formal-verification-can-ensure-flawless-smart-contracts-cbda8ad99bd1) by [Bernhard Mueller](https://media.consensys.net/@muellerberndt)
+* [Mechanism Design Security in Smart Contracts](https://medium.com/@matthewdif/mechanism-design-security-in-smart-contracts-87f08555b38b) by [Matthew Di Ferrante](https://medium.com/@matthewdif)
+* [What’s New in the Web3.py v4 Beta](https://medium.com/@jason.carver/whats-new-in-the-web3-py-v4-beta-453d17231758) by [Jason Carver](https://medium.com/@jason.carver)
 
 ### Ecosystem
-* [Smart Contract Cover: A Safety Net for Ethereum Smart Contracts](https://medium.com/nexus-mutual/smart-contract-cover-55782407722c) by [Hugh Karp](https://medium.com/@hugh_karp)
-* [Introduction to Proof of Location](https://blog.foam.space/introduction-to-proof-of-location-6b4c77928022) by [Ryan John King](https://blog.foam.space/@foamspace)
-* [EthDNS: an Ethereum backend for the Domain Name System](https://medium.com/@jgm.orinoco/ethdns-an-ethereum-backend-for-the-domain-name-system-d52dabd904b3) by [Jim McDonald](https://medium.com/@jgm.orinoco)
-* [Using an In-Browser Ethereum Wallet? Here’s Some Things You Should Know](https://blog.hellobloom.io/using-an-in-browser-ethereum-wallet-heres-some-things-you-should-know-e01304b977e3) by [John Backus](https://blog.hellobloom.io/@jbackus)
-* [On decentralization of blockchain oracles (Part 1)](https://medium.com/@oraclize/on-decentralization-of-blockchain-oracles-94fb78598e79) by [Oraclize](https://medium.com/@oraclize)
-* [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87) by [Pelle Braendgaard](https://medium.com/@pelleb)
+* [New EEA members include: AMD, Ernst & Young, Pfizer, Kaspersky, and Royal Bank of Canada among 80 others](https://www.reddit.com/r/ethereum/comments/7udh34/new_eea_members_include_amd_ernst_young_pfizer/) on Reddit
+* [In 2017, Infura relayed over 7 million ETH — over $8 billion at today’s prices](https://blog.infura.io/in-2017-infura-relayed-over-7-million-eth-over-8-billion-at-todays-prices-6c6cc7f73dd5) by [Maurycy Pietrzak](https://blog.infura.io/@maurycyp)
+* [The Importance of Standards for Bounties on Ethereum](https://medium.com/bounties-network/the-importance-of-standards-for-bounties-on-ethereum-93b518d14f9c) by [Mark Beylin](https://medium.com/@mark.beylin)
+* [Gas price oracles and the future of ethgasstation](https://medium.com/@ethgasstation/gas-price-oracles-and-the-future-of-ethgasstation-859a55c57ad5) by [ETH Gas Station](https://medium.com/@ethgasstation)
+* [ENS Name Buying — Simplified](https://medium.com/@enslisting.com/ens-name-buying-simplified-8a69888e0ba9) by [enslisting](https://medium.com/@enslisting.com)
+* [Farewell and Welcome](https://blog.ethereum.org/2018/01/31/farewell-and-welcome/) by [Ethereum Team](https://blog.ethereum.org/author/ethereum-team/)
+* [Announcing Hyperledger Sawtooth 1.0!](https://www.hyperledger.org/blog/2018/01/30/announcing-hyperledger-sawtooth-1-0) by [hyperledger.org](hyperledger.org)
 
-### New projects
-* [LegalFling](https://legalfling.io/) - mobile app which records sexual consent in a legally binding agreement
+### Podcast, Videos and Interviews  
+* [#220 Manuel Araoz: Zeppelin and the Evolution of Smart Contract Development](https://www.youtube.com/watch?v=UdbCYLRnna4) by Epicenter Podcast
+* [#12 Ben Siegel from the Blockchain for Social Impact Coalition](https://www.youtube.com/watch?v=UdbCYLRnna4) by Ethereum Podcast
+* [#30 - Everett Hildenbrandt - KEVM, K Framework & Security](https://www.youtube.com/watch?v=UdbCYLRnna4) by Let's Talk ETC! (Ethereum Classic) Podcast
+* [Ethereum & Lukso - How Blockchain will change the Fashion Industry](https://www.youtube.com/watch?v=iOMoNzBTa9Y) on Youtube
+* [Joe Lubin at Ethereal Davos 2018](https://www.youtube.com/watch?v=tNP3P2tgTVM) on Youtube
 
 ### Project Updates
-* [Melonport](https://melonport.com) - [Melon IPFS Front-end v0.6.0](https://medium.com/melonport-blog/melon-ipfs-front-end-v0-6-0-b87fff1a2c91)
-* [Aragon](https://aragon.one/) - [Launch of Aragon Nest](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595)
-* [Funfair](https://funfair.io) - [Kick off 2018](https://funfair.io/january-update/)
-* [Gnosis](https://gnosis.pm/) - [WIZ turns OWL](https://blog.gnosis.pm/wiz-turns-owl-813555100010)
-* [district0x](https://district0x.io/) - [Development Update](https://blog.district0x.io/district0x-dev-update-january-23rd-2018-51c25b91e3b)
-* [OmiseGo](https://omisego.network/) - [OMG Network Validation](https://blog.omisego.network/omg-network-validation-f935523086db)
-* [Request Network project update (January 19th, 2018)-Announcing a $30 Million Request Fund](https://blog.request.network/request-network-project-update-january-19th-2018-announcing-a-30-million-request-fund-6a6f87d27d43)
-* [Grid+ Progress Report - 01/23/2018](https://blog.gridplus.io/grid-progress-report-01-23-2018-a25c93803cd0)
-* [Colony Q1 2018 Update](https://blog.colony.io/colony-q1-2018-update-f570b37071ac)
+* [Status](status.im) - [Status Alpha 0.9.13 Release Notes](https://blog.status.im/status-alpha-0-9-13-release-notes-e1f918b75368) and [Status Invests $5M In Riot.im](https://blog.status.im/status-invests-5m-in-riot-im-4e3026a8bd50)
+* [The Augur White Paper: A Decentralized Oracle and Prediction Market Platform](https://medium.com/@AugurProject/the-augur-white-paper-a-decentralized-oracle-and-prediction-market-platform-ed8907401c48) by [Augur](https://medium.com/@AugurProject)
+* [Announcement: Kyber Network Mainnet Pilot Launch](https://blog.kyber.network/announcement-kyber-network-mainnet-pilot-launch-e718ef9839db) by [Loi Luu](https://blog.kyber.network/@loiluu)
+* [SpankChain](https://medium.com/@SpankChain) - [SpankChain Development Update 006 — January 31, 2018](https://medium.com/spankchain/spankchain-development-update-006-january-31-2018-2c005eae95a9)
+* [Makerdao](https://medium.com/@MakerDAO) - [The Road Ahead for Dai](https://medium.com/@MakerDAO/the-road-ahead-for-dai-504b9db459d8)
+* [Melonport Update (Q1 2018)](https://medium.com/melonport-blog/melonport-update-q1-2018-998800c99512)
 
 *Done using materials from http://www.weekinethereum.com*
 
 ## NEO Ecosystem
 ### In the news and blogs
-* [A Detailed Explanation to NEO Smart Contracts Debugging](https://medium.com/neweconolab/a-detailed-explanation-to-neo-smart-contracts-debugging-9a2267fd1843) by [robbie wang](https://medium.com/@WangRobbie)
-* [Weekly Report #26–2018.01.19](https://medium.com/proof-of-working/weekly-report-26-2018-01-19-b766ee379f52) by [Tyler](https://medium.com/@lllwvlvwlll)
-
-## QTUM Ecosystem
-### In the news and blogs
-* [Qtum’s Patrick Dai on China Global Television Network](https://blog.qtum.org/qtums-patrick-dai-on-china-global-television-network-239a9f4baad5) by [Qtum](https://blog.qtum.org/@Qtum)
-* [How Solidity Events Are Implemented — Diving Into The Ethereum VM Part 6](https://blog.qtum.org/how-solidity-events-are-implemented-diving-into-the-ethereum-vm-part-6-30e07b3037b9) by [Howard](https://blog.qtum.org/@hayeah)
-* [Qtum Forges Ahead with Development of Its x86 Virtual Machine and Expanded Network](https://bitcoinmagazine.com/articles/qtum-forges-ahead-development-its-x86-virtual-machine-and-expanded-network/) by [Shawn Gordon](https://bitcoinmagazine.com/authors/shawn-gordon/)
-* [Qtum’s New Partnership to Launch China’s First Blockchain Hub](http://www.nasdaq.com/article/qtums-new-partnership-to-launch-chinas-first-blockchain-hub-cm909962) by [nasdaq.com](http://www.nasdaq.com)
-* [Blockchain is taking us to the moon (and beyond) AMA w/ Jeff Garzik Jan 24 2018 6:30 PM PST (+8 GMT)](https://www.reddit.com/r/Qtum/comments/7s0gru/blockchain_is_taking_us_to_the_moon_and_beyond/) on Reddit
-* [Why 2018 Will Be The Year Of Ethereum And QTUM](http://storeofvalueblog.com/posts/why-2018-will-be-the-year-of-ethereum/) by [storeofvalueblog.com](http://storeofvalueblog.com)
+* [NEO DevCon San Francisco day one – Live blog](https://neonewstoday.com/events/neo-devcon-san-francisco-day-one-live-blog/) and [NEO DevCon San Francisco day two – Live blog](https://neonewstoday.com/events/neo-devcon-san-francisco-day-two-live-blog/) by [neonewstoday.com](https://neonewstoday.com)
+* [NEO Talk @ DevCon interview livestream - Session two](https://www.pscp.tv/w/1YqKDLNVryVKV) video
+* [Weekly Report #27–2018.01.26](https://medium.com/proof-of-working/weekly-report-27-2018-01-26-75db83120a34) by [Tyler](https://medium.com/@lllwvlvwlll)
 
 ## Cardano Ecosystem
 ### In the news and blogs
-* [19.1.2018 - Cardano Foundation Chairman, Michael Parsons appeared on BBC World News today](https://forum.cardanohub.org/t/19-1-2018-cardano-foundation-chairman-michael-parsons-appeared-on-bbc-world-news-today/6532) and [24.1.18 - Cardano Foundation enlist FP Complete for independent 3rd Party Audit of Cardano Blockchain](https://forum.cardanohub.org/t/24-1-18-cardano-foundation-enlist-fp-complete-for-independent-3rd-party-audit-of-cardano-blockchain/6948) by cf_jonmoss
-* [Cardano (ADA coin) Founder Interview: Charles Hoskinson](https://www.youtube.com/watch?v=pcNDSSmkgkA&utm_content=buffer769c3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) on Youtube
-* [Cardano: A New Disruptor in the Cryptocurrency Market?](https://themarketmogul.com/cardano-disruptor-cryptocurrency-market/) by [Thomas Smith](https://themarketmogul.com/author/thomassmith/)
-* [History of Cardano 2015-2018 (Git Visualization)](https://www.youtube.com/watch?v=YtSfJqP04cQ) on Youtube
+* [Research program to work on hardening Cardano against quantum computers](https://iohk.io/blog/research-program-to-work-on-hardening-cardano-against-quantum-computers/?utm_content=buffer0d772&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by [Charles Hoskinson](https://iohk.io/team/charles-hoskinson/)
+* [IOHK Cardano Weekly Technical Report](https://www.cardanohub.org/en/weekly-technical-report/#01-25-2018) by [cardanohub.org](www.cardanohub.org)
+* [Cardano (ADA) Interview with Charles Hoskinson & Cryptosomniac](https://www.youtube.com/watch?time_continue=4974&v=DKCSSZXm9ac&utm_content=buffer501a5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by [Cryptosomniac](https://www.youtube.com/channel/UCRQkQ8YlIY2LlTWGjdo1Opw)
+* [Interview with Charles Hoskinson of Cardano: A Secure and Scalable Blockchain](https://www.youtube.com/watch?v=Z2oVfuKSUMM) by [Cryptocurrency Virtual Summit](https://www.youtube.com/channel/UCSmQFi6qzBvKAK0mKoLXsnQ)
+* [Cardano Foundation integrates Ledger hardware wallet](https://www.banklesstimes.com/2018/02/01/cardano-foundation-integrates-ledger-hardware-wallet/) by [www.banklesstimes.com](www.banklesstimes.com)
 
 ## Tezos Ecosystem
 ### In the news and blogs
-* [@OCamlPro 's live demo of a multisig contract entirely written in the #Liquidity smart-contract language & live deploy on @tez0s 's alphanet](https://www.reddit.com/r/tezos/) on Twitter
-* The Tezos GitLab is showing [plenty of developer activity](https://gitlab.com/tezos/tezos/activity), but the Foundation continues to be at war with the project's founders by [Brian Patrick Eha](https://twitter.com/brianeha)
-* [Tezos: Crypto-Anarchists Appeal to Swiss Government](https://www.finews.com/news/english-news/30398-tezos-crypto-cryptocurrencies-alain-bersier-johann-gevers-breitman) by [www.finews.com](https://www.finews.com)
+* [Tezos: Johann Gevers Blinks](https://www.finews.com/news/english-news/30460-tezos-swiss-foundation-johann-gevers-arthur-kathleen-breitman-guido-schmitz-krummenacher) on Twitter
+* [Special Announcement - T2 Foundation with Olaf, Ryan and Jonas](https://www.youtube.com/watch?v=EsyF9kMH4KE&feature=youtu.be) by [Tezos Community](https://www.youtube.com/channel/UCtEd2bkrhpH9ygGYx03MHtQ)
+* [Bitcoin Brawl: A New Twist In Tezos’s $232 Million Coin Offering](https://www.wsj.com/articles/a-hot-coin-offerings-investors-go-shopping-for-a-new-board-a-hot-coin-offerings-investors-go-shopping-for-a-new-board-1517490000) by [Paul Vigna](http://twitter.com/paulvigna)
+* [Tezos Has a New Board, But What Does It Mean for the Money?](https://www.coindesk.com/tezos-new-board-mean-money/) by [Brady Dale](https://www.coindesk.com/author/bdale/)
+
+## Quantum Resistant Ledger (QRL) Ecosystem
+### In the news and blogs
+* Beta Network is now live. [Instructions for beta testers](https://github.com/theQRL/QRL) on Github
 
 ## Rchain Ecosystem
 ### In the news and blogs
-* Episode 61 of [Rchain Community Hangout](https://www.youtube.com/watch?v=vO-vunmEG-4)
-* [Rchain Exclusive chat Lawrence Lerner & Nash Foster: Making the Blockchain Industry Ready!](https://www.youtube.com/watch?v=PwuV7ryhaXw&t=1s) on Youtube
+* [RChain Rholang SDK (v0.1) Released](https://medium.com/rchain-cooperative/sdk-v0-1-5f6bc35bf3e9) by [Nash Foster](https://medium.com/@cryptoleaf)
 
+## Cosmos Ecosystem
+### In the news and blogs
+* [Latest in Cosmos—January Update](https://blog.cosmos.network/latest-in-cosmos-january-update-fbd89c98f848) by [Tendermint](https://medium.com/@tendermint)
+* [Quickstart Guide — Connecting to the Latest Testnet](https://blog.cosmos.network/quickstart-guide-connecting-to-the-latest-testnet-57568e2d6b9) by [Adrian Brink](https://blog.cosmos.network/@adrian_brink)
 
 ## Nebulas Ecosystem
 ### In the news and blogs
-* [Nebulas Weekly Report #13 Jan. 22th, 2018](https://medium.com/nebulasio/nebulas-weekly-report-13-jan-22th-2018-55d6a18a6cdf) and [Nebulas Sponsors the Research Project of Zcash Co-Founder](https://medium.com/nebulasio/nebulas-sponsors-the-research-project-of-zcash-co-founder-37b57a872ba6) by [Nebulas](https://medium.com/@nebulasio)
-* [Nebulas AMA Series #1 Testnet](https://www.youtube.com/watch?v=oWW4IkK7Mt0&t=30s) on Youtube
+* [Nebulas Weekly Report #14 Jan. 29th, 2018](https://medium.com/nebulasio/nebulas-weekly-report-14-jan-29th-2018-f3def5ab52ea) by [Nebulas](https://medium.com/@nebulasio)
+* [Nebulas AMA Series#2 Testnet with Nebulas Co-Founder and CTO Robin Zhong](https://medium.com/nebulasio/nebulas-ama-series-2-testnet-with-nebulas-co-founder-and-cto-robin-zhong-b54a1b33b85e) on Youtube
 
 [![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
