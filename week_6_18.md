@@ -63,21 +63,19 @@
 ## Cardano Ecosystem
 ### In the news and blogs
 * [The Daedalus Mantis integration 1.0 is released](https://iohk.io/blog/daedalus-mantis-integration-1-0-is-released/) by [Alan McSherry](https://iohk.io/team/alan-mcsherry/)
-* [02.02.2018 - Cardano Foundation Newsletter](https://forum.cardanohub.org/t/02-02-2018-cardano-foundation-newsletter/7476) by [cf_jonmoss](https://forum.cardanohub.org/u/cf_jonmoss/summary) [cf_maki.mukai](https://forum.cardanohub.org/u/cf_maki.mukai/summary)
-* [5.2.18 - Roadmap Update](https://forum.cardanohub.org/t/5-2-18-roadmap-update/7641)
+* [02.02.2018 - Cardano Foundation Newsletter](https://forum.cardanohub.org/t/02-02-2018-cardano-foundation-newsletter/7476) by [cf_jonmoss](https://forum.cardanohub.org/u/cf_jonmoss/summary) 
+* [5.2.18 - Roadmap Update](https://forum.cardanohub.org/t/5-2-18-roadmap-update/7641) by [cf_maki.mukai](https://forum.cardanohub.org/u/cf_maki.mukai/summary)
 * [Cardano (ADA) Interview with Charles Hoskinson](https://www.youtube.com/watch?v=jVzCSsucxso&feature=youtu.be) by [Cryptovator](https://www.youtube.com/channel/UCHwfLixv5xucp0bdu3lxRVg)
 
 ## Tezos Ecosystem
 ### In the news and blogs
 * [2018-02-06 Tezos dev update](https://www.youtube.com/watch?v=5fz9b1KFgU0) by [Arthur Breitman](https://www.youtube.com/channel/UChX-VzLMq-3A5Vs7KDTlehw)
 * [Tezos Backers Mobilize](https://www.finews.com/news/english-news/30557-tezos-crypto-swiss-foundation-cryptocurrencies) by [www.finews.com](www.finews.com/)
- [Instructions for beta testers](https://github.com/theQRL/QRL) on Github
 
 ## Cosmos Ecosystem
 ### In the news and blogs
 * [Cosmos-UI Release v0.4.0](https://blog.cosmos.network/cosmos-ui-release-v0-4-0-cce041fcab10) by [Tendermint](https://medium.com/@tendermint)
-* [Introducing a Blockchain Explorer for Cosmos](https://medium.com/cybermiles/introducing-a-blockchain-explorer-for-cosmos-dc9136461ca1) by [
-Michael Yuan](https://medium.com/@michaelyuan_88928)
+* [Introducing a Blockchain Explorer for Cosmos](https://medium.com/cybermiles/introducing-a-blockchain-explorer-for-cosmos-dc9136461ca1) by [Michael Yuan](https://medium.com/@michaelyuan_88928)
 
 ## Nebulas Ecosystem
 ### In the news and blogs
