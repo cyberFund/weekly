@@ -5,7 +5,8 @@
 * [State of Decentralized Exchanges, 2018](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [Nathan Sexer](https://media.consensys.net/@nathan.sexer)
 * [Decentralized Exchanges Workshop Outcomes](https://medium.com/@hello_10262/decentralized-exchanges-workshop-outcomes-4753dbd86f2b) by [Web3 Foundation Team](https://medium.com/@hello_10262)
 * [European Commission launches the EU Blockchain Observatory and Forum](http://europa.eu/rapid/press-release_IP-18-521_en.htm) by [European Commission](http://europa.eu)
-* [A VC’s take on evaluating cryptocurrencies](https://hackernoon.com/a-framework-for-evaluating-cryptocurrencies-e1b504179848) by [Justine and Olivia Moore](https://hackernoon.com/@justinemoore_85088)
+* [A VC’s take on evaluating cryptocurrencies](https://hackernoon.com/a-framework-for-evaluating-cryptocurrencies-e1b504179848) by [Justine and Olivia Moore](https://hackernoon.com/@justinemoore_85088)\
+* [Beyond the Decentralized Chain](https://medium.com/@pyskell/beyond-the-decentralized-chain-9154361c89a7) by [Pyskell](https://medium.com/@pyskell)
 
 ### Protocol
 * [Casper Research 38](https://www.youtube.com/watch?v=DTuxb2_2UkM) by [Casper Standup](https://www.youtube.com/channel/UCi8byRkpJBbGgDot2pWXLHA)
@@ -13,8 +14,9 @@
 * [Private lookbehind for logs](https://ethresear.ch/t/private-lookbehind-for-logs/999) by [JustinDrake](https://ethresear.ch/u/justindrake/summary)
 * [Trustless Bridge Contracts](https://github.com/GridPlus/trustless-bridge-contracts) by [Grid+](https://github.com/GridPlus)
 
-### Release
+### Releases
 * [Parity 1.9.2-beta](https://github.com/paritytech/parity/releases/tag/v1.9.2)
+* [Emerald Wallet v0.8.1](https://github.com/ethereumproject/emerald-wallet/releases/tag/v0.8.1)
 
 ### Stuff for developers
 * [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17) by [Slava Balasanov](https://hackernoon.com/@balasan)
