@@ -2,9 +2,8 @@
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 
-* [Decentralized Exchanges Workshop Outcomes](https://medium.com/@hello_10262/decentralized-exchanges-workshop-outcomes-4753dbd86f2b) by [Web3 Foundation Team](https://medium.com/@hello_10262)
-* [Why has the token sale market slowed down?  Is the “ICO craze” over?](https://www.evanvanness.com/post/170631488836/why-has-the-token-sale-market-slowed-down-is-the) by [Evan Van Ness](https://www.evanvanness.com/)
 * [State of Decentralized Exchanges, 2018](https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79) by [Nathan Sexer](https://media.consensys.net/@nathan.sexer)
+* [Decentralized Exchanges Workshop Outcomes](https://medium.com/@hello_10262/decentralized-exchanges-workshop-outcomes-4753dbd86f2b) by [Web3 Foundation Team](https://medium.com/@hello_10262)
 * [European Commission launches the EU Blockchain Observatory and Forum](http://europa.eu/rapid/press-release_IP-18-521_en.htm) by [European Commission](http://europa.eu)
 * [A VC’s take on evaluating cryptocurrencies](https://hackernoon.com/a-framework-for-evaluating-cryptocurrencies-e1b504179848) by [Justine and Olivia Moore](https://hackernoon.com/@justinemoore_85088)
 
@@ -14,12 +13,11 @@
 * [Private lookbehind for logs](https://ethresear.ch/t/private-lookbehind-for-logs/999) by [JustinDrake](https://ethresear.ch/u/justindrake/summary)
 * [Trustless Bridge Contracts](https://github.com/GridPlus/trustless-bridge-contracts) by [Grid+](https://github.com/GridPlus)
 
-### Stuff for developers
+### Release
 * [Parity 1.9.2-beta](https://github.com/paritytech/parity/releases/tag/v1.9.2)
 
 ### Stuff for developers
-* [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17) by [
-Slava Balasanov](https://hackernoon.com/@balasan)
+* [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17) by [Slava Balasanov](https://hackernoon.com/@balasan)
 * [Predicting Random Numbers in Ethereum Smart Contracts](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620) by [Arseny Reutov](https://blog.positive.com/@theRaz0r)
 
 ### Ecosystem
@@ -49,7 +47,7 @@ Slava Balasanov](https://hackernoon.com/@balasan)
 
 ## NEO Ecosystem
 ### In the news and blogs
-* [NEO Council Monthly Report – January](https://neo.org/blog/details/3060) by [malcolm@neo.org](malcolm@neo.org)
+* [NEO Council Monthly Report – January](https://neo.org/blog/details/3060) by malcolm@neo.org
 * [A Deep Dive into NeoVM & NeoContract](https://www.youtube.com/watch?v=fLppte-guYE&feature=youtu.be) video by [NEO Smart Economy](https://www.youtube.com/channel/UCl1AwEDN0w5lTmfJEMsY5Vw)
 * [how to debug neo smart contracts](https://www.youtube.com/watch?v=v8x8DEmlfNQ&feature=youtu.be) and [NEO: How to compile a C# Smart Contract](https://www.youtube.com/watch?v=38viZQvaIEk&feature=youtu.be) tutorial video
 * [Weekly Report #30–2018.02.05](https://medium.com/proof-of-working/weekly-report-30-2018-02-05-b0ecffb40024) by [Tyler](https://medium.com/@lllwvlvwlll)
