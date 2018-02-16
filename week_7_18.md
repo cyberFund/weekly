@@ -9,7 +9,7 @@
 
 ### Protocol
 * [Ethereum Core Developer Meeting #33](https://www.youtube.com/watch?v=wPBzs2NBnsA). [Highlights](https://etherworld.co/2018/02/12/constantinople-eips-and-ethereum-core-dev-meeting-33-highlights/)
-* Episode 39 of [Casper Research](https://www.youtube.com/watch?v=_2wduN0iM50)
+* [Casper Research 39](https://www.youtube.com/watch?v=_2wduN0iM50) by [Casper Standup](https://www.youtube.com/channel/UCi8byRkpJBbGgDot2pWXLHA)
 * [Delayed state execution in practice](https://ethresear.ch/t/delayed-state-execution-in-practice/1041), [A model for stage 4 “tightly coupled” sharding plus full Casper](https://ethresear.ch/t/a-model-for-stage-4-tightly-coupled-sharding-plus-full-casper/1065) and [State execution, scalability and cost under DoS attacks](https://ethresear.ch/t/state-execution-scalability-and-cost-under-dos-attacks/1048) by [vbuterin](https://ethresear.ch/u/vbuterin/summary)
 * [Fork-free sharding](https://ethresear.ch/t/fork-free-sharding/1058) by [JustinDrake](https://ethresear.ch/u/justindrake/summary)
 * [Breaking Down Vlad's Talk on CBC Consensus and Safety Proofs](https://www.reddit.com/r/ethereum/comments/7wj8cq/breaking_down_vlads_talk_on_cbc_consensus_and/) on Reddit
@@ -36,6 +36,7 @@
 * [Beyond ERC20 — A guide to non-standard Ethereum token functionality](https://medium.com/@ptrwtts/beyond-erc20-a-guide-to-non-standard-ethereum-token-functionality-bef5b9a9d457) by [Peter Watts](https://medium.com/@ptrwtts)
 * [Unbanked for Good: Digital Currency and Self-Sovereign Finance](https://media.consensys.net/unbanked-for-good-digital-currency-and-self-sovereign-finance-add5f2efaaa) by [Robert Greenfield IV](https://media.consensys.net/@robertgreenfieldiv)
 * [EIP 858: Reduce block reward](https://github.com/ethereum/EIPs/issues/861) on Github
+* [Ecosystem Players Launch Ethereum Community Fund Grant Program](https://www.ethnews.com/ecosystem-players-launch-ethereum-community-fund-grant-program) by [Jeremy Nation](https://www.ethnews.com/author/jeremy-nation)
 
 ### Podcast, Videos and Interviews  
 * Episode 1 of [Conspiratus Podcast](https://conspirat.us/podcast-resources-1-protocol-governance-300fac63ffa9): [Protocol Governance with Vlad Zamfir and Arthur Breitman](https://www.youtube.com/watch?v=IDY_inT-q0U&feature=youtu.be)
@@ -70,7 +71,7 @@
 
 ## Cardano Ecosystem
 ### In the news and blogs
-* [IOHK CARDANO WEEKLY TECHNICAL REPORT](https://www.cardanohub.org/en/weekly-technical-report/?utm_content=bufferb198d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by Cardano Hub
+* [IOHK Cardano Weekly Technical Report](https://www.cardanohub.org/en/weekly-technical-report/?utm_content=bufferb198d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by Cardano Hub
 * [Crypto Happy Hour with Charles Hoskinson - Live Chat](https://www.youtube.com/watch?v=Yaa-FbUezQE&feature=youtu.be) by [Crypto Bobby](https://www.youtube.com/channel/UCt_oM56Ui0BCCgi0Yc-Wh3Q)
 * [IOHK launches Blockchain Technology Laboratory with University of Edinburgh](https://forum.cardanohub.org/t/iohk-launches-blockchain-technology-laboratory-with-university-of-edinburgh/7956) by [cf_jonmoss](https://forum.cardanohub.org/u/cf_jonmoss/summary)
 * [IOHK celebrates a successful Global Summit](https://iohk.io/blog/iohk-celebrates-a-successful-global-summit/) by [Jeremy Wood](https://iohk.io/team/jeremy-wood/)
@@ -92,10 +93,9 @@
 ### In the news and blogs
 * [QRL POW BetaNet Setup - Ubuntu](https://www.youtube.com/watch?v=JXXJIVI3Oeo) by [The Quantum Resistant Ledger](https://www.youtube.com/channel/UCZl6N10P9LNpYkrMwWYtK1w)
 
-
 ## Nebulas Ecosystem
 ### In the news and blogs
-* [Nebulas Weekly Report #16](https://medium.com/nebulasio/nebulas-weekly-report-16-93a31cac6b59) and [Nebulas AMA Series#3 General Question with Nebulas Co-Founder and CTO Robin Zhong](https://medium.com/nebulasio/nebulas-ama-series-3-general-question-with-nebulas-co-founder-and-cto-robin-zhong-329d01250e00) by [Nebulas](https://medium.com/@nebulasio)
+* [Nebulas Weekly Report #16](https://medium.com/nebulasio/nebulas-weekly-report-16-93a31cac6b59) and by [Nebulas](https://medium.com/@nebulasio)
 
 
 [![](https://steemitimages.com/DQmdkWT6cCPVYNzZASwHD3WZ5hKpHQv7927MvBt8wRYDDEC/image.png)](http://company.cyber.fund/#newsletter)
