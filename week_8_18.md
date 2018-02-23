@@ -4,7 +4,6 @@
 
 * [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) by [Chris Dixon](https://medium.com/@cdixon)
 * [Tokens Targeted Airdrops](https://medium.com/@primoz.kordez/tokens-targeted-airdrops-2df7b85b0635) by [Primoz Kordez](https://medium.com/@primoz.kordez)
-* [Ethereum Dev Yoichi Hirai Steps Away From Role As EIP Editor, Raises Questions About Process](https://www.ethnews.com/ethereum-dev-yoichi-hirai-steps-away-from-role-as-eip-editor-raises-questions-ab) by [Adam Reese](https://www.ethnews.com/author/adam-reese)
 * [Lessons From MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a) by [Nick Tomaino](https://thecontrol.co/@ntmoney)
 * [Banks Begone: UN’s World Food Programme Builds on Ethereum Blockchain Money Transfers](https://www.ccn.com/banks-begone-uns-world-food-programme-builds-ethereum-blockchain-money-transfers/) by Samburaj Das
 * [Ethereum Scaling Solutions and Tradeoffs](https://medium.com/xlnt-art/ethereum-scaling-solutions-and-tradeoffs-5713b3a7223b) by [Matt Condon](https://medium.com/@mattcondon)
@@ -63,6 +62,7 @@
 * [City of Zion release Neon Wallet v0.1.4 with NRVE scripthash update](https://neonewstoday.com/development/neon-wallet-v0-1-4-nrve/) and [NEO sponsoring START Hack and HackCU hackathons – Feb 23rd – 25th](https://neonewstoday.com/events/neo-sponsoring-start-hack-and-hackcu-hackathons/) by [Dean Jeffs](https://neonewstoday.com/author/admin/)
 * [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-windocs/blob/master/windocs/quickstart-csharp/README.md) on Github
 * [NEO APAC Mini-Tour](https://neo.org/blog/details/3063) by malcolm@neo.org
+* [NEO Smart Contract Development(II) an Additional Exploration of Mission Impossible](https://medium.com/neweconolab/neo-smart-contract-development-ii-an-additional-exploration-of-mission-impossible-119b49666b1d) by [robbie wang](https://medium.com/@WangRobbie)
 
 ## QTUM Ecosystem
 ### In the news and blogs
