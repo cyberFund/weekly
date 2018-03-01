@@ -1,7 +1,7 @@
-﻿# Weekly News 7/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, Quantum Resistant Ledger, Nebulas)
+﻿# Weekly News 8/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, Quantum Resistant Ledger, Nebulas)
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
-
+### In the news and blogs
 * [Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) by [Chris Dixon](https://medium.com/@cdixon)
 * [Tokens Targeted Airdrops](https://medium.com/@primoz.kordez/tokens-targeted-airdrops-2df7b85b0635) by [Primoz Kordez](https://medium.com/@primoz.kordez)
 * [Lessons From MakerDAO](https://thecontrol.co/lessons-from-makerdao-a42081116e9a) by [Nick Tomaino](https://thecontrol.co/@ntmoney)
