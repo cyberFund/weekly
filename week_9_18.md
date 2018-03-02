@@ -1,4 +1,4 @@
-﻿# Weekly News 7/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, Quantum Resistant Ledger, Nebulas)
+﻿# Weekly News 8/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, RChain, Quantum Resistant Ledger, Nebulas)
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 
@@ -67,6 +67,7 @@
 ## QTUM Ecosystem
 ### In the news and blogs
 * [QRC20 Token Report — February 25, 2018](https://medium.com/@jb395official/qrc20-token-report-february-25-2018-ff397a1ac070) by [Jackson Belove](https://medium.com/@jb395official)
+* [Bridging blockchain’s gaps is the next major hurdle](https://thenextweb.com/contributors/2018/02/27/bridging-blockchains-gaps-next-major-hurdle/) by [Nikolai Kuznetsov](https://thenextweb.com/author/nikolai-kuznetsov/)
 
 ## Cardano Ecosystem
 ### In the news and blogs
