@@ -47,14 +47,12 @@
 * [Episode#006: MakerDAO & the Dai stable coin - Founder Rune Christensen](http://www.blockzero.show/f455ccb1) by [Block Zero](http://www.blockzero.show)
 * [ScalingNOW! #5: David from OmiseGo Talks to Giveth about Plasma NOW](https://www.youtube.com/watch?v=REvKz2d2bds) and [ScalingNOW! #6: Loredana from Brainbot Talks to Giveth about using µRaiden NOW!](https://www.youtube.com/watch?v=81gK-5qLFeg) by [Giveth](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 
-### New Projects
-* [Cellarius](https://cellarius.network/) - Transmedia Cyber Punk Franchise
-
 ### Project Updates
-* [Status](status.im) - [Status Alpha 0.9.14 Release Notes](https://blog.status.im/status-alpha-0-9-14-release-notes-abc35a7dc39c)
-* [district0x](https://district0x.io/) - [district0x Dev Update - February 20th, 2018](https://blog.district0x.io/district0x-dev-update-february-20th-2018-7dde11d02358)
-* [Augur Weekly Development Update — February 21st](https://medium.com/@AugurProject/augur-weekly-development-update-february-21st-8fda8429c705)
-
+* [district0x](https://district0x.io) — [The District Weekly - February 24th, 2018](https://blog.district0x.io/the-district-weekly-february-24th-2018-811435ae2f80) and [Introducing District Staking](https://blog.district0x.io/introducing-district-staking-3bf1fbc092ce)
+* [Aragon](https://aragon.one) — [Aragon Team Update: February 2018](https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742)
+* [SpankChain](https://spankchain.com) — [SpankChain Development Update 007 — February 27, 2018](https://medium.com/spankchain/spankchain-development-update-007-february-27-2018-414247c85445) 
+* [Augur](http://www.augur.net) — [Augur Weekly Development Update — February 28th](https://medium.com/@AugurProject/augur-weekly-development-update-february-28th-d4f410107f)
+* [Decentraland](https://decentraland.org) — [Designing Genesis City: Roads & Urban Planning](https://blog.decentraland.org/designing-genesis-city-roads-urban-planning-ba068f08e74d) and [Introducing Etheremon on Decentraland](https://blog.decentraland.org/introducing-etheremon-on-decentraland-cb440fa873b4)
 *Done using materials from http://www.weekinethereum.com*
 
 ## NEO Ecosystem
