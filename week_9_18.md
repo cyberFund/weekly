@@ -1,4 +1,4 @@
-﻿# Weekly News 8/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, RChain, Quantum Resistant Ledger, Nebulas)
+﻿# Weekly News 9/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, RChain, Quantum Resistant Ledger, Nebulas)
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
 
@@ -24,7 +24,6 @@
 * [ERC900: Simple Staking Interface](https://github.com/ethereum/EIPs/issues/900) on Github
 * [WasteNowForHasteLater: Optimizing Gas Costs in Time-Sensitive Ethereum Transactions](https://medium.com/@dappsec/wastenowforhastelater-optimizing-time-sensitive-ethereum-transaction-gas-costs-e5fa765bcd0d) by [Alan Krassowski](https://medium.com/@dappsec)
 * [Eth-Watch: push notifications every time an address sends/receives a transaction](https://eth-watch.io) by [MIMIR](https://eth-watch.io)
-* [Using Azure Functions to Call an Ethereum Smart Contract](https://steemit.com/blockchain/@bornswift/using-azure-functions-to-call-ethereum-smart-contract) by [Cody](https://steemit.com/@bornswift)
 * [Using Azure Functions to Call an Ethereum Smart Contract](https://steemit.com/blockchain/@bornswift/using-azure-functions-to-call-ethereum-smart-contract) by [Cody](https://steemit.com/@bornswift)
 * [A zkSNARK tutorial and development environment](https://github.com/barryWhiteHat/libsnark-tutorial) on Github
 
