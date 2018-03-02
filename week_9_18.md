@@ -1,7 +1,7 @@
 ﻿# Weekly News 9/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, RChain, Quantum Resistant Ledger, Nebulas)
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
-
+### In the news and blogs
 * [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by [Haseeb Qureshi](https://hackernoon.com/@hosseeb)
 * [MV=P…Que? Love and Circularity in the Time of Crypto](https://medium.com/@brian.koralewski/mv-p-que-love-and-circularity-in-the-time-of-crypto-2b84074fa2d2) by [Brian Koralewski](https://medium.com/@brian.koralewski)
 * [A token to self-regulate tokens. But really.](https://medium.com/@twobitidiot/a-token-to-self-regulate-tokens-but-really-a61da77e6a7b) by [TwoBitIdiot](https://medium.com/@twobitidiot)
