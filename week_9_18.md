@@ -53,6 +53,7 @@
 * [SpankChain](https://spankchain.com) — [SpankChain Development Update 007 — February 27, 2018](https://medium.com/spankchain/spankchain-development-update-007-february-27-2018-414247c85445) 
 * [Augur](http://www.augur.net) — [Augur Weekly Development Update — February 28th](https://medium.com/@AugurProject/augur-weekly-development-update-february-28th-d4f410107f)
 * [Decentraland](https://decentraland.org) — [Designing Genesis City: Roads & Urban Planning](https://blog.decentraland.org/designing-genesis-city-roads-urban-planning-ba068f08e74d) and [Introducing Etheremon on Decentraland](https://blog.decentraland.org/introducing-etheremon-on-decentraland-cb440fa873b4)
+
 *Done using materials from http://www.weekinethereum.com*
 
 ## NEO Ecosystem
@@ -68,11 +69,10 @@
 
 ## Cardano Ecosystem
 ### In the news and blogs
-* [IOHK Cardano Weekly Technical Report](https://www.cardanohub.org/en/weekly-technical-report/?utm_content=bufferb198d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by Cardano Hub
+* [IOHK Cardano Weekly Technical Report](https://www.cardanohub.org/en/weekly-technical-report/) by Cardano Hub
 * [Cardano's Ouroboros: Proving Proof of Stake can work in the wild](http://www.ibtimes.co.uk/cardanos-ouroboros-proving-proof-stake-can-work-wild-1663150) by [Ian Allison](http://www.ibtimes.co.uk/reporters/ian-allison)
 * [Cardano: a rising cryptocurrency that wants to change the world](https://mashable.com/2018/02/24/cardano-hoskinson-interview/#2_GkxxFAVkq3) by [Stan Schroeder](https://mashable.com/author/stan-schroeder/)
 * [Kaleidoscope – a cryptographic protocol for securely playing poker](https://iohk.io/blog/kaleidoscope-a-cryptographic-protocol-for-securely-playing-poker) by [Bernardo David](https://iohk.io/team/bernardo-david/)
-* [20.2.18 - Cardano Foundation and Z/Yen explore threat of quantum computing to blockchain security](https://forum.cardanohub.org/t/20-2-18-cardano-foundation-and-z-yen-explore-threat-of-quantum-computing-to-blockchain-security/8495) by [cf_jonmoss](https://forum.cardanohub.org/u/cf_jonmoss/summary)
 * [IOHK | Charles Hoskinson at LSE, Cardano’s goals for Africa](https://www.youtube.com/watch?v=YSzVsjG2QoQ) by [IOHK](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
 
 ## Tezos Ecosystem
