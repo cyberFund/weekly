@@ -1,7 +1,7 @@
-﻿# Weekly News 9/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, RChain, Quantum Resistant Ledger, Nebulas)
+﻿# Weekly News 8/2018 by Protocols (Ethereum, NEO, QTUM, Cardano, Tezos, RChain, Quantum Resistant Ledger, Nebulas)
 
 ## Ethereum Protocol (Ethereum, Ethereum Classic)
-### In the news and blogs
+
 * [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by [Haseeb Qureshi](https://hackernoon.com/@hosseeb)
 * [MV=P…Que? Love and Circularity in the Time of Crypto](https://medium.com/@brian.koralewski/mv-p-que-love-and-circularity-in-the-time-of-crypto-2b84074fa2d2) by [Brian Koralewski](https://medium.com/@brian.koralewski)
 * [A token to self-regulate tokens. But really.](https://medium.com/@twobitidiot/a-token-to-self-regulate-tokens-but-really-a61da77e6a7b) by [TwoBitIdiot](https://medium.com/@twobitidiot)
@@ -24,6 +24,7 @@
 * [ERC900: Simple Staking Interface](https://github.com/ethereum/EIPs/issues/900) on Github
 * [WasteNowForHasteLater: Optimizing Gas Costs in Time-Sensitive Ethereum Transactions](https://medium.com/@dappsec/wastenowforhastelater-optimizing-time-sensitive-ethereum-transaction-gas-costs-e5fa765bcd0d) by [Alan Krassowski](https://medium.com/@dappsec)
 * [Eth-Watch: push notifications every time an address sends/receives a transaction](https://eth-watch.io) by [MIMIR](https://eth-watch.io)
+* [Using Azure Functions to Call an Ethereum Smart Contract](https://steemit.com/blockchain/@bornswift/using-azure-functions-to-call-ethereum-smart-contract) by [Cody](https://steemit.com/@bornswift)
 * [Using Azure Functions to Call an Ethereum Smart Contract](https://steemit.com/blockchain/@bornswift/using-azure-functions-to-call-ethereum-smart-contract) by [Cody](https://steemit.com/@bornswift)
 * [A zkSNARK tutorial and development environment](https://github.com/barryWhiteHat/libsnark-tutorial) on Github
 
@@ -50,7 +51,7 @@
 ### Project Updates
 * [district0x](https://district0x.io) — [The District Weekly - February 24th, 2018](https://blog.district0x.io/the-district-weekly-february-24th-2018-811435ae2f80) and [Introducing District Staking](https://blog.district0x.io/introducing-district-staking-3bf1fbc092ce)
 * [Aragon](https://aragon.one) — [Aragon Team Update: February 2018](https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742)
-* [SpankChain](https://spankchain.com) — [SpankChain Development Update 007 — February 27, 2018](https://medium.com/spankchain/spankchain-development-update-007-february-27-2018-414247c85445) 
+* [SpankChain](https://spankchain.com) — [SpankChain Development Update 007 — February 27, 2018](https://medium.com/spankchain/spankchain-development-update-007-february-27-2018-414247c85445)
 * [Augur](http://www.augur.net) — [Augur Weekly Development Update — February 28th](https://medium.com/@AugurProject/augur-weekly-development-update-february-28th-d4f410107f)
 * [Decentraland](https://decentraland.org) — [Designing Genesis City: Roads & Urban Planning](https://blog.decentraland.org/designing-genesis-city-roads-urban-planning-ba068f08e74d) and [Introducing Etheremon on Decentraland](https://blog.decentraland.org/introducing-etheremon-on-decentraland-cb440fa873b4)
 
@@ -69,10 +70,11 @@
 
 ## Cardano Ecosystem
 ### In the news and blogs
-* [IOHK Cardano Weekly Technical Report](https://www.cardanohub.org/en/weekly-technical-report/) by Cardano Hub
+* [IOHK Cardano Weekly Technical Report](https://www.cardanohub.org/en/weekly-technical-report/?utm_content=bufferb198d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by Cardano Hub
 * [Cardano's Ouroboros: Proving Proof of Stake can work in the wild](http://www.ibtimes.co.uk/cardanos-ouroboros-proving-proof-stake-can-work-wild-1663150) by [Ian Allison](http://www.ibtimes.co.uk/reporters/ian-allison)
 * [Cardano: a rising cryptocurrency that wants to change the world](https://mashable.com/2018/02/24/cardano-hoskinson-interview/#2_GkxxFAVkq3) by [Stan Schroeder](https://mashable.com/author/stan-schroeder/)
 * [Kaleidoscope – a cryptographic protocol for securely playing poker](https://iohk.io/blog/kaleidoscope-a-cryptographic-protocol-for-securely-playing-poker) by [Bernardo David](https://iohk.io/team/bernardo-david/)
+* [20.2.18 - Cardano Foundation and Z/Yen explore threat of quantum computing to blockchain security](https://forum.cardanohub.org/t/20-2-18-cardano-foundation-and-z-yen-explore-threat-of-quantum-computing-to-blockchain-security/8495) by [cf_jonmoss](https://forum.cardanohub.org/u/cf_jonmoss/summary)
 * [IOHK | Charles Hoskinson at LSE, Cardano’s goals for Africa](https://www.youtube.com/watch?v=YSzVsjG2QoQ) by [IOHK](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
 
 ## Tezos Ecosystem
